@@ -18,7 +18,7 @@
                    
                          <router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
-                      >     <h4> 1.	Schoonmaakonderhoud</h4></router-link>
+                      >     <h4> 	Schoonmaakonderhoud</h4></router-link>
                     </div>
                 </div>
              </div>    <div class="item">
@@ -28,7 +28,7 @@
                    
                          <router-link
                         :to="{ path: '/seves2', name: 'seves2'}"
-                      >     <h4>2.	Glasbewassing </h4></router-link>
+                      >     <h4>	Glasbewassing </h4></router-link>
                     </div>
                 </div>
              </div>    <div class="item">
@@ -38,7 +38,7 @@
                    
                          <router-link
                         :to="{ path: '/seves3', name: 'seves3'}"
-                      >     <h4>3.	Vloeronderhoud </h4></router-link>
+                      >     <h4>	Vloeronderhoud </h4></router-link>
                     </div>
                 </div>
              </div>    <div class="item">
@@ -48,7 +48,7 @@
                    
                          <router-link
                         :to="{ path: '/seves4', name: 'seves4'}"
-                      >     <h4>4.	Bouwopleveringen </h4></router-link>
+                      >     <h4>	Bouwopleveringen </h4></router-link>
                     </div>
                 </div>
              </div>    <div class="item">
@@ -58,7 +58,7 @@
                    
                          <router-link
                         :to="{ path: '/seves5', name: 'seves5'}"
-                      >     <h4>5.	Dieptereiniging </h4></router-link>
+                      >     <h4>	Dieptereiniging </h4></router-link>
                     </div>
                 </div>
              </div>    <div class="item">
@@ -68,7 +68,7 @@
                    
                          <router-link
                         :to="{ path: '/seves6', name: 'seves16'}"
-                      >     <h4> 6.	Calamiteitenservice:</h4></router-link>
+                      >     <h4> 	Calamiteitenservice:</h4></router-link>
                     </div>
                 </div>
              </div>    
@@ -89,6 +89,7 @@
 </template>
 
 <script>
+
 
 
 import carousel from 'vue-owl-carousel'

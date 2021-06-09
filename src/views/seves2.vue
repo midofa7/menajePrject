@@ -3,7 +3,7 @@
 <div class="page_dety_serves ">
     <div class="container">
         <div class="tetel">
-            <h3>2.	Glasbewassing</h3>
+            <h3>	Glasbewassing</h3>
         </div>
         <div class="block_sev">
         <div class="row">

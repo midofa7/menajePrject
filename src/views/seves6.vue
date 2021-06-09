@@ -3,7 +3,7 @@
 <div class="page_dety_serves ">
     <div class="container">
         <div class="tetel">
-            <h3>6.	Calamiteitenservice: </h3>
+            <h3>	Calamiteitenservice: </h3>
         </div>
         <div class="block_sev">
         <div class="row">

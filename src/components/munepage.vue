@@ -3,45 +3,46 @@
   <div class="mune__de_page">
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand logo" href="index.html">
+            <a class="navbar-brand logo" href="">
               
             <img src="../assets/image/logo.png"/>
             </a>
 
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler"  id="muneshowMobil" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a href="" class="nav-link smoothScroll">
-                                              <router-link
+                                            <router-link
                         :to="{ path: '/home', name: 'home' }"
-                      >home</router-link>
-                        </a>
+                      >  <a href="" class="nav-link smoothScroll">
+                        home
+                        </a></router-link>
                     </li>
                     <li class="nav-item">
-                        <a href="" class="nav-link smoothScroll">
                                               <router-link
                         :to="{ path: '/Facilitairschoonmaak', name: 'Facilitairschoonmaak'}"
-                      >Facilitair  de schoonmaak</router-link>
-                        </a>
+                      >  <a href="" class="nav-link smoothScroll">
+                      Facilitair  de schoonmaak</a></router-link>
+                        
                     </li>
                     <li class="nav-item">
-                        <a href="" class="nav-link">
-                                              <router-link
+                                               <router-link
                         :to="{ path: '/Onzewerkwijze:', name: 'Onzewerkwijze' }"
-                      >Onze werkwijze:
+                      >  <a href="" class="nav-link">
+                     Onze werkwijze:  </a>
 </router-link>
-                        </a>
+                      
                     </li>
                     <li class="nav-item">
-                        <a href="" class="nav-link ">
-                                              <router-link
+                                               <router-link
                         :to="{ path: '/Contact', name: 'Contact'}"
-                      >Contact</router-link>
-                        </a>
+                      >   <a href="" class="nav-link ">
+                    Contact </a>
+                    </router-link>
+                       
                     </li>
                 </ul>
             </div>

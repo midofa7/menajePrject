@@ -2,7 +2,12 @@
 <template>
   <div class="block1_home">
    <div class="image">
-     <img src="../assets/image/img.png"/>
+      <carousel :items="1" :loop="true">
+     <img src="../assets/image/img.png"/>     
+     <img src="../assets/image/img1.png"/>   
+       <img src="../assets/image/img11.png"/>     
+       <img src="../assets/image/img14.png"/>
+     </carousel>
    </div>
    <div class="block_text">
      <div class="text">
@@ -20,9 +25,11 @@
 
 <script>
 
+import carousel from 'vue-owl-carousel'
 export default {
   name: "Home",
   components: {
+    carousel
   },
 
   props: [],

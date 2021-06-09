@@ -3,7 +3,7 @@
 <div class="page_dety_serves ">
     <div class="container">
         <div class="tetel">
-            <h3>5.	Dieptereiniging</h3>
+            <h3>	Dieptereiniging</h3>
         </div>
         <div class="block_sev">
         <div class="row">
