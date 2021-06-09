@@ -1,6 +1,6 @@
 
 <template>
-  <div class="block1_home">
+  <div class="block1_home 88">
    <div class="image">
       <carousel :items="1" :loop="true">
      <img src="../assets/image/aimg1.png"/>  
