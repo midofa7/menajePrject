@@ -1,0 +1,307 @@
+.munedepage nav.navbar.navbar-expand-lg {
+    padding: 6px 6%;
+}
+.munedepage nav.navbar.navbar-expand-lg a {
+    font-size: 15px;
+    font-weight: 700;
+}
+.munedepage nav.navbar.navbar-expand-lg a {
+    font-size: 15px;
+    margin: 2px 13px;
+    font-weight: 700;
+}
+.pagehome .element_1 .image img {
+    width: 100%;
+    max-height: 500px;
+}
+.pagehome .element_1 .block1_home {
+    position: relative;
+}
+
+.pagehome .element_1 .block1_home .block_text h3 {
+    color: #f9f9f9;
+    font-size: 31px;
+    font-weight: 800;
+}
+.pagehome .element_1 .block1_home .block_text a {
+    background-color: aliceblue;
+    padding: 10px 21px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.owl-nav {
+    display: none;
+}
+
+.element_2 .team-section {
+    margin-top: 26px;
+}
+.element_2 .team-section .section-heading h2 { color: #42899e; }
+.element_2 .section-heading p {
+    font-size: 17px;
+    padding: 7px 9%;
+    font-family: inherit;
+    color: #343434;
+    font-weight: 600;
+}
+.element_2 .section-heading {
+    margin-bottom: 40px;
+}
+
+.element_2 .owl-dots {
+    margin-top: -55px;
+}
+.element_2 .item {
+    padding: 8px 5%;
+}
+.pagehome .element_1 .block1_home .block_text p {
+    font-size: 17px;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.footer_site {
+    background: #3e8195;
+    text-align: center;
+    padding: 8px 2px;
+}
+
+.footer_site p {
+    font-size: 15px;
+    color: aliceblue;
+    font-family: emoji;
+    font-style: normal;
+}
+
+.pagep_setaple-sanpel .block_taepe--de-page h2 {
+    color: aliceblue;
+    background: #3986c369;
+    text-align: center;
+    padding: 24px 4px;
+    font-size: 41px;
+    font-family: inherit;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.pagep_setaple-sanpel .about-us {
+    padding: 54px 0px;
+    background-color: #f7f7f7;
+}
+.pagep_setaple-sanpel .left-image img {
+    width: 100%;
+    margin-top: 25px;
+    border-radius: 17px;
+    -webkit-box-shadow: 5px 5px 15px 5px #ffffff;
+    box-shadow: 0px 0px 22px -5px #979797;
+}
+.pagep_setaple-sanpel .about-us .section-heading h2 {
+    color: #1e1e1e;
+    font-size: 32px;
+    font-family: unset;
+    line-height: 35px;
+    margin-top: 41px;
+}
+.pagep_setaple-sanpel .contact-us .right-content ul li i {
+    margin-right: 5px;
+    margin-left: 4px;
+    margin-bottom: 15px;
+}
+
+.pagep_setaple-sanpel.contact-us .right-content ul i {
+    width: 51px;
+    height: 57px;
+    display: inline-block;
+    text-align: center;
+    line-height: 60px;
+    background-color: #00bcd4;
+    border-radius: 16%;
+    color: #fff;
+    margin-right: 15px;
+    font-size: 24px;
+    font-size: 18px;
+    padding-bottom: 23px;
+    padding-top: 0px;
+}
+
+.pagep_setaple-sanpel.contact-us .right-content ul p {
+    margin-bottom: 0;
+    font-size: 17px;
+    color: #6a6a6a;
+    line-height: 25px;
+    display: inline-flex;
+    font-weight: 900;
+    font-family: inherit;
+}
+
+
+
+.pagep_setaple-sanpel .right-content.contact-us {
+    margin-top: 40px;
+}
+
+
+.pagep_setaple-sanpel .right-content.contact-us p {
+    font-size: 14px;
+    color: #6a6a6a;
+    line-height: 25px;
+    display: inline-block;
+}
+.page_dety_serves .tetel h3 {
+    text-align: center;
+    margin: 30px 1%;
+    font-size: 32px;
+    font-weight: 700;
+    color: #244763;
+}
+.page_dety_serves .block_sev .text p {
+    font-size: 17px;
+    padding-top: 20px;
+    font-family: emoji;
+    color: #526372;
+}
+.page_dety_serves .block_sev {
+    margin: 40px 2%;
+}
+.page_dety_serves .block_sev img {
+    width: 90%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+.munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
+    color: #e9e9e9;
+}
+
+
+
+
+.pagehome .element_1 .block1_home .block_text {
+    position: absolute;
+    top: 35px;
+    background: #090b0aa3;
+    width: 60%;
+    padding: 43px 10%;
+    left: 20%;
+    border-radius: 15px 80px 15px 80px;
+}
+
+.pagep_setaple-sanpel .right-content.contact-us img {
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 59px;
+}
+.right-content.contact-us {
+    margin-top: 44px;
+    margin-bottom: 62px;
+}
+
+.home.vue__de__site {
+    min-height: 660px;
+}
+
+.munedepage nav.navbar.navbar-expand-lg {
+    padding: 6px 6%;
+    min-height: 94px;
+}
+.mune__de_page a.navbar-brand.logo img {
+    width: 50%;
+    border-radius: 10px;
+}
+@media screen and (max-width: 750px) {
+    .pagep_setaple-sanpel .block_taepe--de-page h2 {
+        color: aliceblue;
+        background: #3986c369;
+        text-align: center;
+        padding: 23px 4px;
+        font-size: 23px;
+        font-family: inherit;
+        font-style: italic;
+        margin-bottom: 0px;
+    }
+    .footer_site p {
+        font-size: 10px;
+        color: aliceblue;
+        font-family: emoji;
+        font-style: normal;
+        padding: 2px 4%;
+    }
+    .pagep_setaple-sanpel .right-content.contact-us img {
+        width: 90%;
+        margin-top: 0px;
+        margin: 22px 5%;
+    }
+    .about-us .right-content, .contact-us .right-content {
+        margin-left: 0px;
+        padding: 1px 5%;
+    }
+    .pagep_setaple-sanpel .contact-us .right-content ul li i {
+        margin-right: 36px;
+        margin-left: 35px;
+        margin-bottom: -1px;
+    }
+   
+    .pagehome .element_1 .block1_home .block_text {
+        position: absolute;
+        top: 15px;
+        background: #090b0aa3;
+        width: 90%;
+        padding: 43px 10%;
+        left: 5%;
+        border-radius: 19px;
+    }
+    .pagehome .element_1 .block1_home .block_text {
+        position: absolute;
+        top: 35px;
+        background: #5555558f;
+        width: 90%;
+        padding: 45px 4%;
+        left: 5%;
+        border-radius: 19px;
+    }
+    .pagehome .element_1 .block1_home .block_text h3 {
+        color: #f9f9f9;
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .pagehome .element_1 .block1_home .block_text p {
+        font-size: 17px;
+        color: aliceblue;
+        margin-bottom: 26px;
+        margin-top: 28px;
+    }
+    .element_2 .team-section .section-heading h2 {
+        font-size: 23px;
+        color: #42899D;
+        font-weight: 900;
+    }
+    .element_2 .section-heading p {
+        font-size: 17px;
+        padding: 7px 3%;
+        font-family: fangsong;
+        color: #343434;
+        font-weight: 500;
+        text-align: left;
+        line-height: 21px;
+    }
+
+    .owl-dots {
+        display: none;
+    }
+    .page_dety_serves .block_sev img {
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 28px;
+        border-radius: 10px;
+    }
+    .page_dety_serves .tetel h3 {
+        text-align: center;
+        margin: 29px 1%;
+        font-size: 19px;
+        font-weight: 700;
+        color: #375064;
+    }
+    .pagehome .element_1 .image img {
+        width: 100%;
+        min-height: 569px;
+    }
+}
