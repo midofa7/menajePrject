@@ -341,6 +341,12 @@ nav.navbar.navbar-expand-lg .container {
         width: 41%;
     }
     
+    .block1_home .owl-dots {
+        position: absolute;
+        width: 100%;
+        top: 515px;
+        display: block;
+    }
     
 }
 
