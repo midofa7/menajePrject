@@ -334,6 +334,14 @@ nav.navbar.navbar-expand-lg .container {
         width: 100%;
         min-height: 569px;
     }
+    .munedepage nav.navbar.navbar-expand-lg a {
+        font-size: 15px;
+        margin: 9px 13px;
+        font-weight: 700;
+        width: 41%;
+    }
+    
+    
 }
 
 
