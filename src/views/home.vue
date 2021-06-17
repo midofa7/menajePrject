@@ -1,7 +1,7 @@
 
 <template>
   <div class="pagehome">
-   <div class="element_1"><bolck1home/></div>
+   <div class="element_1"><div class="container"><bolck1home/></div></div>
    <div class="element_2"><bolck2home/></div>
   </div>
 </template>

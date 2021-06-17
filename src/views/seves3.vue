@@ -35,7 +35,17 @@ Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een apart
                 <div class="image"> <img src="../assets/image/img13.png" /></div>
             </div>
         </div>
-        </div> </div>
+        </div> 
+          <div class="block__bottne">
+    
+             <router-link
+                        :to="{ path: '/Contact', name: 'Contact'}"
+                      > 
+                  <button>      demander un devis  </button> 
+                    </router-link>
+      
+        </div>
+        </div>
 
 </div>
 </template>

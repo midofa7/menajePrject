@@ -12,7 +12,7 @@
         <div class="row">
           <div class="col-12 col-md-6">
             <div class="left-image">
-              <img src="../assets/image/img3.png" alt="">
+              <img src="../assets/img/img7.png" alt="">
             </div>
           </div>
           <div class="col-12 col-md-6">

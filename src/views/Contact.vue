@@ -14,7 +14,9 @@
 
             <div class="row">
                 <div class="col-12 col-md-6 p-0">
-                   <img src="../assets/image/img6.png"/>
+                  <div class="blockfromelare">
+                 <blcokfrom/>
+                 </div>
                 </div>
                 <div class="col-12 col-md-6 p-0">
                 <div class="right-content">
@@ -50,10 +52,13 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
 
 <script>
 
+import blcokfrom from "../components/blcok_from";
+
 
 export default {
   name: "Home",
   components: {
+      blcokfrom,
   },
 
   props: [],

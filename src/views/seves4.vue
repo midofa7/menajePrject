@@ -33,7 +33,16 @@ Wij zijn bekend met de tijdsdruk die een bouwoplevering kan geven. Onze medewerk
                 <div class="image"> <img src="../assets/image/img15.png" /></div>
             </div>
         </div>
-        </div>  
+        </div> 
+          <div class="block__bottne">
+    
+             <router-link
+                        :to="{ path: '/Contact', name: 'Contact'}"
+                      > 
+                  <button>      demander un devis  </button> 
+                    </router-link>
+      
+        </div> 
     </div>
 
 </div>

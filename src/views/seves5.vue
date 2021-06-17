@@ -32,6 +32,15 @@
             </div>
         </div>
         </div>   
+          <div class="block__bottne">
+    
+             <router-link
+                        :to="{ path: '/Contact', name: 'Contact'}"
+                      > 
+                  <button>      demander un devis  </button> 
+                    </router-link>
+      
+        </div>
     </div>
 
 </div>

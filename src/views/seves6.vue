@@ -18,7 +18,17 @@ Het kan voorkomen dat er een dringende reden is voor een specialistische schoonm
                 </div>
             </div>
         </div>
-        </div>    </div>
+        </div>   
+          <div class="block__bottne">
+    
+             <router-link
+                        :to="{ path: '/Contact', name: 'Contact'}"
+                      > 
+                  <button>      demander un devis  </button> 
+                    </router-link>
+      
+        </div>
+         </div>
 
 </div>
 </template>

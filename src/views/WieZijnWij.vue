@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-12 col-md-6">
                     <div class="left-image">
-                        <img src="../assets/image/img4.png" alt="">
+                        <img src="../assets/img/img5.png" alt="">
                     </div>
                 </div>
                 <div class="col-12 col-md-6">
@@ -38,7 +38,7 @@ iedereen heeft het COVID-19 virus veel teweeg gebracht. Zo hebben wij begrijpeli
                 </div> 
                 <div class="col-12 col-md-6">
                     <div class="left-image">
-                        <img src="../assets/image/img5.png" alt="">
+                        <img src="../assets/img/img1.png" alt="">
                     </div>
                 </div>
             </div>

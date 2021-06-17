@@ -3,11 +3,12 @@
   <div class="block1_home 88">
    <div class="image">
       <carousel :items="1" :loop="true">
-     <img src="../assets/image/aimg1.png"/>  
-     <img src="../assets/image/aimg2.png"/>  
-     <img src="../assets/image/aimg3.png"/>  
-     <img src="../assets/image/aimg4.png"/>  
-     <img src="../assets/image/aimg5.png"/>  
+     <img src="../assets/img/img1.png"/>  
+     <img src="../assets/img/img2.png"/>  
+     <img src="../assets/img/img3.png"/>   
+     <img src="../assets/img/img7.png"/>  
+     <img src="../assets/img/img11.png"/>  
+     <img src="../assets/img/img12.png"/>  
      </carousel>
    </div>
    <div class="block_text">

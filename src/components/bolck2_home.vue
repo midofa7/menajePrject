@@ -11,66 +11,66 @@
          </div>
          <div class="la_carosell">
            <carousel :responsive="{0:{items:1,nav:false},600:{items:3,nav:true}}">
-             <div class="item">
-                    <div class="team-item">
-                    <img src="../assets/image/img7.png" alt="">
-                    <div class="down-content">
-                   
-                         <router-link
+             <div class="item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
-                      >     <h4> 	Schoonmaakonderhoud</h4></router-link>
-                    </div>
-                </div>
-             </div>    <div class="item">
-                    <div class="team-item">
-                    <img src="../assets/image/img9.png" alt="">
+                      >  
+                    <div class="team-item"> 
+                    <img src="../assets/img/img1.png" alt="">
                     <div class="down-content">
                    
-                         <router-link
+                           <h4> 	Schoonmaakonderhoud</h4>
+                    </div>
+                </div></router-link>
+             </div>    <div class="item"><router-link
                         :to="{ path: '/seves2', name: 'seves2'}"
-                      >     <h4>	Glasbewassing </h4></router-link>
-                    </div>
-                </div>
-             </div>    <div class="item">
+                      >  
                     <div class="team-item">
-                    <img src="../assets/image/img12.png" alt="">
+                    <img src="../assets/img/img2.png" alt="">
                     <div class="down-content">
                    
-                         <router-link
+                            <h4>	Glasbewassing </h4>
+                    </div>
+                </div></router-link>
+             </div>    <div class="item"> <router-link
                         :to="{ path: '/seves3', name: 'seves3'}"
-                      >     <h4>	Vloeronderhoud </h4></router-link>
-                    </div>
-                </div>
-             </div>    <div class="item">
+                      >  
                     <div class="team-item">
-                    <img src="../assets/image/img14.png" alt="">
+                    <img src="../assets/img/img3.png" alt="">
                     <div class="down-content">
                    
-                         <router-link
-                        :to="{ path: '/seves4', name: 'seves4'}"
-                      >     <h4>	Bouwopleveringen </h4></router-link>
+                           <h4>	Vloeronderhoud </h4>
                     </div>
-                </div>
-             </div>    <div class="item">
+                </div></router-link>
+             </div>    <div class="item"><router-link
+                        :to="{ path: '/seves4', name: 'seves4'}"
+                      >  
+                    <div class="team-item">
+                    <img src="../assets/img/img1.png" alt="">
+                    <div class="down-content">
+                   
+                            <h4>	Bouwopleveringen </h4>
+                    </div>
+                </div></router-link>
+             </div>    <div class="item"><router-link
+                        :to="{ path: '/seves5', name: 'seves5'}"
+                      >  
                     <div class="team-item">
                     <img src="../assets/image/img16.png" alt="">
                     <div class="down-content">
                    
-                         <router-link
-                        :to="{ path: '/seves5', name: 'seves5'}"
-                      >     <h4>	Dieptereiniging </h4></router-link>
+                            <h4>	Dieptereiniging </h4>
                     </div>
-                </div>
-             </div>    <div class="item">
+                </div></router-link>
+             </div>    <div class="item"><router-link
+                        :to="{ path: '/seves6', name: 'seves16'}"
+                      >   
                     <div class="team-item">
-                    <img src="../assets/image/img18.png" alt="">
+                    <img src="../assets/img/img7.png" alt="">
                     <div class="down-content">
                    
-                         <router-link
-                        :to="{ path: '/seves6', name: 'seves16'}"
-                      >     <h4> 	Calamiteitenservice:</h4></router-link>
+                           <h4> 	Calamiteitenservice:</h4>
                     </div>
-                </div>
+                </div></router-link>
              </div>    
            </carousel>
          
