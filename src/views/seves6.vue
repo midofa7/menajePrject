@@ -8,7 +8,7 @@
         <div class="block_sev">
         <div class="row">
             <div class="col-12 col-md-6">
-                <div class="image"> <img src="../assets/image/img18.png" /></div>
+                <div class="image"> <img src="../assets/img/img15.png" /></div>
             </div>
             <div class="col-12 col-md-6">
                 <div class="text">

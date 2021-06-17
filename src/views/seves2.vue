@@ -8,7 +8,7 @@
         <div class="block_sev">
         <div class="row">
             <div class="col-12 col-md-6">
-                <div class="image"> <img src="../assets/image/img9.png" /></div>
+                <div class="image"> <img src="../assets/image/img11.png" /></div>
             </div>
             <div class="col-12 col-md-6">
                 <div class="text">
@@ -29,7 +29,7 @@ Schone ramen geven vaak de eerste indruk van het bedrijf en zijn het visitekaart
                 </div>
             </div>
              <div class="col-12 col-md-6">
-                <div class="image"> <img src="../assets/image/img11.png" /></div>
+                <div class="image"> <img src="../assets/image/img2.png" /></div>
             </div>
         </div>
         </div>  

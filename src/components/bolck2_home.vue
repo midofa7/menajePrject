@@ -15,7 +15,7 @@
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
                     <div class="team-item"> 
-                    <img src="../assets/img/img1.png" alt="">
+                    <img src="../assets/img/img4.png" alt="">
                     <div class="down-content">
                    
                            <h4> 	Schoonmaakonderhoud</h4>
@@ -55,7 +55,7 @@
                         :to="{ path: '/seves5', name: 'seves5'}"
                       >  
                     <div class="team-item">
-                    <img src="../assets/image/img16.png" alt="">
+                    <img src="../assets/img/img17.png" alt="">
                     <div class="down-content">
                    
                             <h4>	Dieptereiniging </h4>

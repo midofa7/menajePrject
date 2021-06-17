@@ -14,9 +14,9 @@
 
             <div class="row">
                 <div class="col-12 col-md-6 p-0">
-                  <div class="blockfromelare">
-                 <blcokfrom/>
-                 </div>
+                   <div class="image"> <img src="../assets/img/img9.png"/></div>
+            
+                  
                 </div>
                 <div class="col-12 col-md-6 p-0">
                 <div class="right-content">
@@ -42,6 +42,10 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
                 </div></div>
             </div>
         </div>
+    <div class="blockfromelare">
+                  
+                 <blcokfrom/>
+                 </div>
     </div>
 
 
