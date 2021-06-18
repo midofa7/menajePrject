@@ -22,7 +22,6 @@ export default {
   created: function () { 
 
     
-document.cookie="namzze=vafvlue; expires={new Date(0).toUCString()}";
   },
   methods: {},
 };
