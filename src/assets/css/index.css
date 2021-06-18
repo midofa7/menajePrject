@@ -13,6 +13,20 @@ font-family: 'emoji';
 .munedepage nav.navbar.navbar-expand-lg {
     padding: 6px 0%;
 }
+.pagehome .element_1 .block1_home .block_text {
+   
+  
+    background: #090b0a52;
+    width: 60%;
+    padding: 30px 3%;
+  
+    margin-top: 30px;
+    margin-left: 20%;
+}
+.pagehome .element_1 .image img {
+    width: 100%;
+    max-height: 355px;
+}
 .munedepage nav.navbar.navbar-expand-lg {
     padding: 6px 0%;
     min-height: 100px;
@@ -187,23 +201,10 @@ font-family: 'emoji';
 .munedepage  .navbar .navbar-nav .nav-item {
     margin: 0px 0px;
 }
-.pagehome .element_1 .image img {
-    width: 100%;
-    max-height: 540px;
-}
 .block1_home .owl-dots {
     position: absolute;
     width: 100%;
     top: 475px;
-}
-.pagehome .element_1 .block1_home .block_text {
-    position: absolute;
-    z-index: 99999999999999;
-    top: 66px;
-    background: #090b0a52;
-    width: 40%;
-    padding: 30px 3%;
-    left: 13%;
 }
 .pagehome .element_1 .block1_home .block_text h3 {
     color: #f9f9f9;
@@ -399,24 +400,6 @@ nav.navbar.navbar-expand-lg .container {
         margin-bottom: -1px;
     }
    
-    .pagehome .element_1 .block1_home .block_text {
-        position: absolute;
-        top: 15px;
-        background: #090b0aa3;
-        width: 90%;
-        padding: 43px 10%;
-        left: 5%;
-        border-radius: 19px;
-    }
-    .pagehome .element_1 .block1_home .block_text {
-        position: absolute;
-        top: 35px;
-        background: #5555558f;
-        width: 90%;
-        padding: 45px 4%;
-        left: 5%;
-        border-radius: 19px;
-    }
    
     .element_2 .team-section .section-heading h2 {
         font-size: 23px;
@@ -447,10 +430,7 @@ nav.navbar.navbar-expand-lg .container {
         font-weight: 700;
         color: #375064;
     }
-    .pagehome .element_1 .image img {
-        width: 100%;
-        min-height: 569px;
-    }
+    
     .munedepage nav.navbar.navbar-expand-lg a {
         font-size: 15px;
         margin: 9px 13px;
@@ -523,6 +503,23 @@ nav.navbar.navbar-expand-lg .container {
 .home.vue__de__site .blockfromelare {
     margin: 5px 5%;
     margin-bottom: 25px;
+}
+
+.pagehome .element_1 .image img {
+    width: 100%;
+    min-height: 67px;
+}
+.pagehome .element_1 .block1_home .block_text {
+    background: #090b0a52;
+    width: 100%;
+    padding: 31px 5%;
+    margin-top: 12px;
+    margin-left: 0%;
+}
+.mune__de_page a.navbar-brand.logo img {
+    width: 53%;
+    margin-left: 52%;
+    margin-top: -11px;
 }
 }
 
