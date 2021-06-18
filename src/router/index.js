@@ -10,11 +10,17 @@ import seves1  from '../views/seves1.vue'
 import seves2  from '../views/seves2.vue'
 import seves3  from '../views/seves3.vue'
 import seves4  from '../views/seves4.vue'
+
 import seves5  from '../views/seves5.vue'
+import Cookies  from '../views/Cookies.vue'
 import seves6  from '../views/seves6.vue'
 
 const routes = [
   {
+    path: '/Cookies',
+    name: 'Cookies',
+    component:Cookies ,  
+  } ,{
     path: '/seves1',
     name: 'seves1',
     component:seves1 ,  

@@ -241,13 +241,26 @@ nav.navbar.navbar-expand-lg .container {
 
 
 
+.footer_site .block_bottn p {
+    font-size: 17px;
+    color: aliceblue;
+    padding: 4px;
+    font-family: emoji;
+    font-style: normal;
+}
 
 
-
+.footer_site .text_block p {
+    font-size: 17px;
+    margin-top: 10px;
+    font-family: fantasy;
+}
 .footer_site {
     background: #5ebaf6;
     text-align: center;
-    padding: 8px 2px;
+
+    padding: 0px 2px;
+    
 }
 .pagep_setaple-sanpel .block_taepe--de-page h2 {
     color: #eea21f;
@@ -307,6 +320,49 @@ nav.navbar.navbar-expand-lg .container {
 }
 .home.vue__de__site .blockfromelare {
     margin: 44px 32%;
+}
+.footer_site img {
+    width: 57px;
+    border-radius: 12px;
+    margin: 14px 7px;
+    margin-top: 11px;
+}
+
+.footer_site .block__top {
+    background: #3b698773;
+    padding: 10px;
+}
+.footer_site .text_block p span {
+    font-size: 15px;
+    font-family: cursive;
+    padding-left: 9px;
+}
+.Cookies {
+    margin: 42px 5%;
+}
+.Cookies p {
+    color: #27547b;
+    font-size: 19px;
+    font-family: emoji;
+    line-height: 25px;
+    text-align: justify;
+}
+.Cookies .tatlledepage h3 {
+    font-family: cursive;
+    color: #184461;
+    font-weight: bolder;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 46px;
+}
+
+.Cookies h3 {
+    font-family: fangsong;
+    color: #5ebaf6;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-bottom: 10px;
 }
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {
