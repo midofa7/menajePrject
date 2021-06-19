@@ -47,10 +47,17 @@
                     CONTACT </a>
                     </router-link>
                        
+                    </li>   <li class="nav-item">
+                                               <router-link
+                        :to="{ path: '/Vacatures', name: 'Vacatures'}"
+                      >   <a href="" class="nav-link ">
+                    VACATURES </a>
+                    </router-link>
+                       
                     </li>
                     <li class="nav-item">
                                                <router-link
-                        :to="{ path: '/Contact', name: 'Contact'}"
+                        :to="{ path: '/Vacatures', name: 'Vacatures'}"
                       >   <a href="" class="nav-link ">
                     <img src="../assets/img/i1.png"/> </a>
                     </router-link>

@@ -36,9 +36,9 @@ Schone ramen geven vaak de eerste indruk van het bedrijf en zijn het visitekaart
           <div class="block__bottne">
     
              <router-link
-                        :to="{ path: '/Contact', name: 'Contact'}"
+                        :to="{ path: '/offertes', name: 'offertess'}"
                       > 
-                  <button>      demander un devis  </button> 
+                  <button>       demandes offertes  </button> 
                     </router-link>
       
         </div> 

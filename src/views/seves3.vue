@@ -39,9 +39,9 @@ Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een apart
           <div class="block__bottne">
     
              <router-link
-                        :to="{ path: '/Contact', name: 'Contact'}"
+                        :to="{ path: '/offertes', name: 'offertesss'}"
                       > 
-                  <button>      demander un devis  </button> 
+                  <button>       demandes offertes </button> 
                     </router-link>
       
         </div>

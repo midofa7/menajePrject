@@ -36,16 +36,16 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
                             <ul>
                                 <li><i class="fa fa-phone"></i> <p>010-020-0560</p></li>
                             </ul>
+                        </div>  <div class=" col-md-6 col-12">
+                            <ul>
+                                <li><i class="fas fa-atlas"></i><p>www.flexschoon.nl</p></li>
+                            </ul>
                         </div> 
                     
                     </div>
                 </div></div>
             </div>
         </div>
-    <div class="blockfromelare">
-                  
-                 <blcokfrom/>
-                 </div>
     </div>
 
 
@@ -56,13 +56,11 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
 
 <script>
 
-import blcokfrom from "../components/blcok_from";
 
 
 export default {
   name: "Home",
   components: {
-      blcokfrom,
   },
 
   props: [],

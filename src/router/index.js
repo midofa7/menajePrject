@@ -14,12 +14,22 @@ import seves4  from '../views/seves4.vue'
 import seves5  from '../views/seves5.vue'
 import Cookies  from '../views/Cookies.vue'
 import seves6  from '../views/seves6.vue'
+import pagedovi  from '../views/pagedovi.vue'
+import postule  from '../views/postule.vue'
 
 const routes = [
   {
     path: '/Cookies',
     name: 'Cookies',
     component:Cookies ,  
+  } ,{
+    path: '/offertes',
+    name: 'offertes',
+    component:pagedovi ,  
+  } ,{
+    path: '/Vacatures',
+    name: 'Vacatures',
+    component:postule ,  
   } ,{
     path: '/seves1',
     name: 'seves1',

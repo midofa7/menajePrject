@@ -12,8 +12,8 @@
 				placeholder="Enter email">
 		</div>
 		<div class="form-group">
-			<label for="exampleInputPassword1">Name entreprise</label>
-			<input type="text" class="form-control" name="entreprise" placeholder="Name entreprise">
+			<label for="exampleInputPassword1">Name </label>
+			<input type="text" class="form-control" name="entreprise" placeholder="Name ">
 		</div>
 		<div class="form-group">
 			<label for="exampleInputPassword1">numéro de téléphone</label>
