@@ -10,7 +10,7 @@
                  </div>
          </div>
          <div class="la_carosell">
-           <carousel :loop="true" :responsive="{0:{items:1,nav:false},600:{items:3,nav:true}}">
+           <carousel :loop="true" :responsive="{0:{items:1,nav:true},600:{items:3,nav:true}}">
              <div class="item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
