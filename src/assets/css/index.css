@@ -73,7 +73,6 @@ font-family: 'moifront';
 .element_2 .section-heading p {
     font-size: 17px;
     padding: 7px 9%;
-    font-family: inherit;
     color: #343434;
     font-weight: 600;
 }
@@ -96,7 +95,6 @@ font-family: 'moifront';
 .footer_site p {
     font-size: 17px;
     color: aliceblue;
-    font-family: emoji;
     font-style: normal;
 }
 
@@ -136,7 +134,6 @@ font-family: 'moifront';
     line-height: 25px;
     display: inline-flex;
     font-weight: 900;
-    font-family: inherit;
 }
 
 
@@ -162,7 +159,6 @@ font-family: 'moifront';
 .page_dety_serves .block_sev .text p {
     font-size: 17px;
     padding-top: 20px;
-    font-family: emoji;
     color: #526372;
 }
 .page_dety_serves .block_sev {
@@ -253,7 +249,6 @@ nav.navbar.navbar-expand-lg .container {
     font-size: 17px;
     color: aliceblue;
     padding: 4px;
-    font-family: emoji;
     font-style: normal;
 }
 
@@ -261,7 +256,6 @@ nav.navbar.navbar-expand-lg .container {
 .footer_site .text_block p {
     font-size: 17px;
     margin-top: 10px;
-    font-family: fantasy;
 }
 .footer_site {
     background: #5ebaf6;
@@ -276,7 +270,6 @@ nav.navbar.navbar-expand-lg .container {
     text-align: center;
     padding: 24px 4px;
     font-size: 41px;
-    font-family: inherit;
     font-style: italic;
     margin-bottom: 0px;
 }
@@ -288,7 +281,6 @@ nav.navbar.navbar-expand-lg .container {
 .pagep_setaple-sanpel .about-us .section-heading h2 {
     color: #eea21f;
     font-size: 32px;
-    font-family: unset;
     line-height: 35px;
     margin-top: 41px;
 }
@@ -310,7 +302,6 @@ nav.navbar.navbar-expand-lg .container {
 
 .home.vue__de__site .blockfromelare label {
     font-size: 26px;
-    font-family: auto;
     color: #5ebaf6;
 }
 .home.vue__de__site .blockfromelare button.btn.btn-primary {
@@ -342,7 +333,6 @@ nav.navbar.navbar-expand-lg .container {
 }
 .footer_site .text_block p span {
     font-size: 15px;
-    font-family: cursive;
     padding-left: 9px;
 }
 .Cookies {
@@ -351,12 +341,10 @@ nav.navbar.navbar-expand-lg .container {
 .Cookies p {
     color: #27547b;
     font-size: 19px;
-    font-family: emoji;
     line-height: 25px;
     text-align: justify;
 }
 .Cookies .tatlledepage h3 {
-    font-family: cursive;
     color: #184461;
     font-weight: bolder;
     margin-top: 0px;
@@ -366,7 +354,6 @@ nav.navbar.navbar-expand-lg .container {
 }
 
 .Cookies h3 {
-    font-family: fangsong;
     color: #5ebaf6;
     font-weight: bolder;
     margin-top: 50px;
@@ -387,14 +374,12 @@ nav.navbar.navbar-expand-lg .container {
         text-align: center;
         padding: 23px 4px;
         font-size: 23px;
-        font-family: inherit;
         font-style: italic;
         margin-bottom: 0px;
     }
     .footer_site p {
         font-size: 10px;
         color: aliceblue;
-        font-family: emoji;
         font-style: normal;
         padding: 2px 4%;
     }
@@ -421,7 +406,6 @@ nav.navbar.navbar-expand-lg .container {
     .element_2 .section-heading p {
         font-size: 17px;
         padding: 7px 3%;
-        font-family: fangsong;
         color: #343434;
         font-weight: 500;
         text-align: left;
@@ -469,7 +453,6 @@ nav.navbar.navbar-expand-lg .container {
 .footer_site p {
     font-size: 20px;
     color: aliceblue;
-    font-family: emoji;
     font-style: normal;
     padding: 2px 4%;
 }
@@ -511,7 +494,6 @@ nav.navbar.navbar-expand-lg .container {
     font-size: 26px;
     font-weight: 700;
     color: #375064;
-    font-family: cursive;
 }
 .home.vue__de__site .blockfromelare {
     margin: 5px 5%;
