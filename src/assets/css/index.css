@@ -80,9 +80,6 @@ font-family: 'moifront';
     margin-bottom: 40px;
 }
 
-.element_2 .owl-dots {
-    margin-top: -55px;
-}
 .element_2 .item {
     padding: 8px 5%;
 }
@@ -364,6 +361,10 @@ nav.navbar.navbar-expand-lg .container {
     width: 60%;
     margin-left: 20%;
     /* max-height: 263px; */
+}
+.element_2 .owl-dots {
+    margin-top: 0px;
+    margin-bottom: 40px;
 }
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {
