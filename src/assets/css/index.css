@@ -314,9 +314,7 @@ nav.navbar.navbar-expand-lg .container {
     width: 94%;
     margin-top: 16px;
 }
-.home.vue__de__site .blockfromelare {
-    margin: 44px 32%;
-}
+
 .footer_site img {
     width: 57px;
     border-radius: 12px;
@@ -366,6 +364,19 @@ nav.navbar.navbar-expand-lg .container {
     margin-top: 0px;
     margin-bottom: 40px;
 }
+.home.vue__de__site .blockfromelare {
+    margin: 44px 12%;
+}
+.home.vue__de__site .blockfromelare h3 {
+    color: #5ebaf6;
+    font-size: 32px;
+    margin-bottom: 44px;
+}
+.home.vue__de__site .blockfromelare p {
+    color: #6c757d;
+    font-size: 18px;
+}
+
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {
     padding-top: 60px;
