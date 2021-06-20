@@ -4,9 +4,7 @@
 
     <div class="from__block">
 
-	<form  action="http://localhost/php/brojetEmail/top.php" methods="POST">
-
-
+	<form  action="http://localhost/php/brojetEmail/index.php" methods="POST">
 
 		<div class="form-group">
 			<label for="exampleInputEmail1">Email address</label>
