@@ -44,6 +44,14 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
                             <ul>
                                 <li><i class="fas fa-map-marker-alt"></i><p>Flexschoon 1363DN Almere Zwedenstraat 15</p></li>
                             </ul>
+                        </div> <div class=" col-md-6 col-12">
+                            <ul>
+                                <li><i class="fab fa-facebook"></i><p>Flexschoon</p></li>
+                            </ul>
+                        </div> <div class=" col-md-6 col-12">
+                            <ul>
+                                <li><i class="fab fa-instagram"></i><p>Flexschoon </p></li>
+                            </ul>
                         </div> 
                     
                     </div>
