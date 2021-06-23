@@ -24,8 +24,8 @@
                         <span>Contact Us</span>
                        <p>
 
-Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor de schoonmaak en ben je op zoek naar een nieuwe uitdaging in de schoonmaakbranche? Schroom dan niet om een open sollicitatie te verzenden naar onderstaand e-mail adres:</p>
-                    </div>
+
+Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo kunnen wij een kennismakingsgesprek inplannen en al uw schoonmaakwensen en vragen met u doornemen. Hiervoor kun je onderstaande velden invullen en op de verzendbutton klikken. Wij nemen dan zo snel mogelijk contact met je op.                </div>
                     <div class="row">
                      <div class=" col-md-7 col-12">
                             <ul>
