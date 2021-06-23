@@ -5,7 +5,7 @@
     <div class="block_taepe--de-page">
 
 
-        <h2>content nous</h2>
+        <h2>content </h2>
     </div>
 
     <div class="right-content contact-us">
@@ -14,21 +14,20 @@
 
             <div class="row">
                 <div class="col-12 col-md-6 p-0">
-                   <div class="image"> <img src="../assets/img/img9.png"/></div>
+                   <div class="image"> <img src="../assets/img/img20.png"/></div>
             
                   
                 </div>
-                <div class="col-12 col-md-6 p-0">
+                <div class="col-12 col-md-5 p-0">
                 <div class="right-content">
                  <div class="section-heading">
                         <span>Contact Us</span>
-                        <h2>Vacatures: </h2>
-                        <p>
+                       <p>
 
 Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor de schoonmaak en ben je op zoek naar een nieuwe uitdaging in de schoonmaakbranche? Schroom dan niet om een open sollicitatie te verzenden naar onderstaand e-mail adres:</p>
                     </div>
                     <div class="row">
-                     <div class=" col-md-6 col-12">
+                     <div class=" col-md-7 col-12">
                             <ul>
                                 <li><i class="fas fa-envelope-open"></i> <p>info@flexschoon.nl</p></li>
                             </ul>
@@ -42,7 +41,7 @@ Wij staan altijd open voor nieuwe en enthousiaste medewerkers. Heb je hart voor 
                             </ul>
                         </div>  <div class=" col-md-6 col-12">
                             <ul>
-                                <li><i class="fas fa-map-marker-alt"></i><p>Flexschoon 1363DN Almere Zwedenstraat 15</p></li>
+                                <li><i class="fas fa-map-marker-alt"></i><p>Almere Zwedenstraat 15</p></li>
                             </ul>
                         </div> <div class=" col-md-6 col-12">
                             <ul>
