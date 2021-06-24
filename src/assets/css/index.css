@@ -52,7 +52,7 @@ position: relative;
 }
 .munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
     color: #eea21f;
-    font-size: 18px;
+    font-size: 13px;
     width: 99%;
     font-weight: 600;
 }
@@ -136,7 +136,7 @@ position: relative;
 
 
 .pagep_setaple-sanpel .right-content.contact-us p {
-    font-size: 14px;
+    font-size: 10px;
     color: #6a6a6a;
     line-height: 25px;
     display: inline-block;
@@ -416,6 +416,9 @@ img {
     top: 116px;
     right: -6%;
 }
+.pagep_setaple-sanpel .contact-us .right-content ul li {
+    text-align: left!important;
+}
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {
     padding-top: 60px;
@@ -443,7 +446,7 @@ img {
         padding: 1px 5%;
     }
     .pagep_setaple-sanpel .contact-us .right-content ul li {
-        text-align: left;
+        text-align: left!important;
     }
     .pagep_setaple-sanpel .contact-us .right-content ul li i {
         margin-right: 36px;

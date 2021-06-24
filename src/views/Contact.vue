@@ -27,7 +27,7 @@
 
 Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo kunnen wij een kennismakingsgesprek inplannen en al uw schoonmaakwensen en vragen met u doornemen. Hiervoor kun je onderstaande velden invullen en op de verzendbutton klikken. Wij nemen dan zo snel mogelijk contact met je op.                </p></div>
                     <div class="row">
-                     <div class=" col-md-7 col-12">
+                     <div class=" col-12 col-md-7">
                             <ul>
                                 <li><i class="fas fa-envelope-open"></i> <p>info@flexschoon.nl</p></li>
                             </ul>

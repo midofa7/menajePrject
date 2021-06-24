@@ -57,9 +57,16 @@
                     </li>
                     <li class="nav-item">
                                                <router-link
+                        :to="{ path: '/offertes', name: 'offertes'}"
+                      >   <a href="" class="nav-link ">
+                  offertes</a>
+                    </router-link>
+                       
+                    </li>   <li class="nav-item">
+                                               <router-link
                         :to="{ path: '/Vacatures', name: 'Vacatures'}"
                       >   <a href="" class="nav-link ">
-                    <img src="../assets/img/i1.png"/> </a>
+                   <i class="fas fa-award"></i> </a>
                     </router-link>
                        
                     </li>
