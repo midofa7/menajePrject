@@ -8,16 +8,17 @@
          <img src="../assets/img/logo.png"/>
       </div>
       <div class="text_block">
-          <p>Website: <span>www.flexschoon.nl</span></p>
-          <p>Email:<span> info@flexschoon.nl </span></p>
-          <p>Telefoonnummer:<span> 06 87 52 4936</span></p>
+          <p><i class="fas fa-envelope-open"></i><span> info@flexschoon.nl </span></p>
+          <p><i class="fa fa-phone"></i><span> 06 87 52 4936</span></p>
+           <p><i class="fab fa-facebook"></i><span>Flexschoon</span></p> 
+          <p><i class="fab fa-instagram-square"></i><span>Flexschoon</span></p>
 
           
 
    <router-link
                         :to="{ path: '/Cookies', name: 'Cookies'}"
                       >   <a href="" class="nav-link ">
-                    Cookies </a>
+             <i class="fas fa-cookie-bite"></i>       Cookies </a>
                     </router-link>
 
 

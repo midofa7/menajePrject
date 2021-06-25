@@ -49,7 +49,7 @@ Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo 
                             </ul>
                         </div> <div class=" col-md-6 col-12">
                             <ul>
-                                <li><i class="fab fa-instagram"></i><p>Flexschoon </p></li>
+                                <li><i class="fab fa-instagram-square"></i><p>Flexschoon </p></li>
                             </ul>
                         </div> 
                     

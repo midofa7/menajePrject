@@ -24,7 +24,7 @@ Het kan voorkomen dat er een dringende reden is voor een specialistische schoonm
              <router-link
                         :to="{ path: '/offertes', name: 'offertes'}"
                       > 
-                  <button>   demandes offertes   </button> 
+                  <button>   Offerte aanvragen </button> 
                     </router-link>
       
         </div>

@@ -6,8 +6,7 @@
         <div class="text">
                 <div class="section-heading">
                    
-                    <h2>Onze diensten:</h2>
-                 </div>
+                  </div>
          </div>
 
             <div class="row">
@@ -21,30 +20,36 @@
                      
                      
                      </p>
-                     <div class="block__button">
-                     <button>Schoonmaak offerte</button>
-                     </div>
+                   
+      <router-link
+                        :to="{ path: '/offertes', name: 'offertess'}"
+                      > 
+             
+
+      <div class="block__button">
+                     <button>Offerte aanvragen </button>
+                     </div>    
+
+                    </router-link>
+
                      </div>
                   
                   </div>
                
                
                </div>
-               <div class="col-12 col-md-8"> <div class="la_carosell">
-           <carousel  :navText="['<', '>']"
-
-                 :loop="true" :responsive="{0:{items:1,nav:false},600:{items:3,nav:false}}">
-             <div class="item"><router-link
+               <div class="col-12 col-md-8"> <div class="row">
+            <div class="col-12 col-md-4  item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
                     <div class="team-item"> 
                     <img src="../assets/img/img10.png" alt="">
                     <div class="down-content">
                    
-                           <h4> 	Schoonmaakonderhoud</h4>
+                           <h4> 	Schoonmaak onderhoud</h4>
                     </div>
                 </div></router-link>
-             </div>    <div class="item"><router-link
+             </div>    <div class="item col-12 col-md-4"><router-link
                         :to="{ path: '/seves2', name: 'seves2'}"
                       >  
                     <div class="team-item">
@@ -54,7 +59,7 @@
                             <h4>	Glasbewassing </h4>
                     </div>
                 </div></router-link>
-             </div>    <div class="item"> <router-link
+             </div>    <div class="item col-12 col-md-4"> <router-link
                         :to="{ path: '/seves3', name: 'seves3'}"
                       >  
                     <div class="team-item">
@@ -64,7 +69,7 @@
                            <h4>	Vloeronderhoud </h4>
                     </div>
                 </div></router-link>
-             </div>    <div class="item"><router-link
+             </div>    <div class="item col-12 col-md-4"><router-link
                         :to="{ path: '/seves4', name: 'seves4'}"
                       >  
                     <div class="team-item">
@@ -74,7 +79,7 @@
                             <h4>	Bouwopleveringen </h4>
                     </div>
                 </div></router-link>
-             </div>    <div class="item"><router-link
+             </div>    <div class="item col-12 col-md-4"><router-link
                         :to="{ path: '/seves5', name: 'seves5'}"
                       >  
                     <div class="team-item">
@@ -84,7 +89,7 @@
                             <h4>	Dieptereiniging </h4>
                     </div>
                 </div></router-link>
-             </div>    <div class="item"><router-link
+             </div>    <div class="item col-12 col-md-4 "><router-link
                         :to="{ path: '/seves6', name: 'seves16'}"
                       >   
                     <div class="team-item">
@@ -95,7 +100,7 @@
                     </div>
                 </div></router-link>
              </div>    
-           </carousel>
+        
          
          </div>
 </div>
@@ -105,9 +110,6 @@
 
 
 
-
-
-        
     </div>
 </div>
  
@@ -118,10 +120,9 @@
 
 
 
-import carousel from 'vue-owl-carousel'
 export default {
   name: "Home",
-  components: {carousel,
+  components: {
   },
 
   props: [],

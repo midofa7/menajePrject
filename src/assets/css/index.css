@@ -98,11 +98,6 @@ position: relative;
     padding: 54px 0px;
     background-color: #f7f7f7;
 }
-.pagep_setaple-sanpel .left-image img {
-    width: 100%;
-    margin-top: 25px;
-    height:350px ;
-}
 .pagep_setaple-sanpel .contact-us .right-content ul li i {
     margin-right: 10px;
     margin-left: 4px;
@@ -138,11 +133,6 @@ position: relative;
     font-weight: 700;
     color: #244763;
 }
-.page_dety_serves .block_sev .text p {
-    font-size: 17px;
-    padding-top: 20px;
-    color: #526372;
-}
 .page_dety_serves .block_sev {
     margin: 40px 2%;
 }
@@ -164,7 +154,7 @@ position: relative;
 }
 
 .home.vue__de__site {
-    min-height: 700px;
+    min-height: 600px;
 }
 
 .mune__de_page a.navbar-brand.logo img {
@@ -281,8 +271,9 @@ nav.navbar.navbar-expand-lg .container {
     color: #eea21f;
     font-size: 32px;
     line-height: 35px;
-    margin-top: 41px;
+    margin-top: -8px;
 }
+
 
 
 .block__bottne {
@@ -501,19 +492,56 @@ img {
     font-family: fantasy;
     font-weight: 800;
     padding: 30px 9%;
+    border-radius: 17px;
     margin-right: 4%;
+    width: 100%;
 }
-.element_2 .blocktaxt .iitme____text----l button {
-    color: black;
-    background: none;
-    border: #0c0c0c solid 4px;
-    padding: 4px 13px;
-    font-size: 15px;
-    font-weight: 800;
-    margin-top: 3px;
-}
+
 .element_2 .blocktaxt .iitme____text----l .block__button {
     text-align: center;
+}
+.element_2 .block__button {
+    text-align: center;
+    /* border: none; */
+}
+.element_2 .block__button button {
+    border: none;
+    color: #52a3e9;
+    background-color: #f2bb5a;
+    padding: 7px 26px;
+    font-size: 23px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-top: 140px;
+    width: 100%;
+}
+.element_2 .team-section .item img {
+    height: 125px;
+}
+
+.pagep_setaple-sanpel .left-image img {
+    width: 71%;
+    margin-top: 25px;
+    height: 268px;
+}
+
+.home.vue__de__site .section-heading p {
+    font-size: 18px;
+    color: #1c394c;
+    padding: 5px 20px;
+    height: 272px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.page_dety_serves .block_sev .text p {
+    font-size: 17px;
+    padding-top: 20px;
+    padding: 5px 20px;
+    height: 272px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    color: #526372;
 }
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {

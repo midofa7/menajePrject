@@ -13,35 +13,22 @@
             <div class="col-12 col-md-6">
                 <div class="text">
                     <p>Vloeren worden normaliter veel gebruikt. Om de levensduur van de vloer te verlengen, is het van belang om deze regelmatig te laten onderhouden. Daarnaast kunnen verschillende factoren zoals vocht, vuil of zand ervoor zorgen dat vloeren veel sneller slijten. Periodiek de vloeren laten behandelen gaat dit tegen. 
-</p>
-                </div>
-            </div>
-        </div>
-        </div>    <div class="block_sev">
-        <div class="row">
-           
-            <div class="col-12 col-md-6">
-                <div class="text">
-                    <p>
-                    
+
 
 Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een aparte behandeling nodig. Wij hebben medewerkers die gespecialiseerd zijn in het reinigen en onderhouden van verschillende soorten vloeren. Omdat wij het milieu erg belangrijk vinden, werken wij uitsluitend met milieuvriendelijke schoonmaakproducten. 
 
                     
-                    </p>
+</p>
                 </div>
             </div>
-             <div class="col-12 col-md-6">
-                <div class="image"> <img src="../assets/image/img13.png" /></div>
-            </div>
         </div>
-        </div> 
+        </div>    
           <div class="block__bottne">
     
              <router-link
                         :to="{ path: '/offertes', name: 'offertesss'}"
                       > 
-                  <button>       demandes offertes </button> 
+                  <button>Offerte aanvragen</button> 
                     </router-link>
       
         </div>
