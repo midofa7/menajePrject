@@ -33,16 +33,6 @@ position: relative;
 .munedepage nav.navbar.navbar-expand-lg {
     padding: 6px 0%;
 }
-.pagehome .element_1 .block1_home .block_text {
-   
-  
-    background: #090b0a52;
-    width: 60%;
-    padding: 30px 3%;
-  
-    margin-top: 30px;
-    margin-left: 20%;
-}
 
 
 .munedepage nav.navbar.navbar-expand-lg {
@@ -61,7 +51,7 @@ position: relative;
 }
 
 .pagehome .element_1 .block1_home .block_text h3 {
-    color: #f9f9f9;
+    color: #0d0d0d;
     font-size: 31px;
     font-weight: 800;
 }
@@ -94,8 +84,8 @@ position: relative;
 }
 .pagehome .element_1 .block1_home .block_text p {
     font-size: 17px;
-    color: aliceblue;
-    margin-bottom: 20px;
+    color: #333333;
+    margin-bottom: 50px;
 }
 
 .footer_site p {
@@ -198,7 +188,7 @@ position: relative;
     top: 475px;
 }
 .pagehome .element_1 .block1_home .block_text h3 {
-    color: #f9f9f9;
+    color: #0d0d0d;
     font-size: 25px;
     font-weight: 600;
 }
@@ -207,7 +197,7 @@ position: relative;
 }
 .pagehome .element_1 .block1_home .block_text p {
     font-size: 16px;
-    color: aliceblue;
+    color: #333333;
     margin-bottom: 22px;
     margin-top: 27px;
 }
@@ -216,20 +206,38 @@ position: relative;
     background-color: #f7f7f7;
     text-align: center;
     border-radius: 1px 1px 10px 10px;
-    padding: 30px;
+    padding: 30px 1px;
 }
 nav.navbar.navbar-expand-lg .container {
     margin: 4px 0%;
 }
 
 .element_2 .team-section .team-item h4 {
-    font-size: 19px;
+    font-size: 13px;
     font-weight: 700;
     color: #efa321;
     letter-spacing: 0.5px;
     margin-bottom: 0px;
 }
-
+.element_2 .owl-next {
+    color: #ffffff!important;
+    background-color: #ffffff!important;
+    position: absolute;
+    font-size: 51px!important;
+    
+    padding: 87px 8px !important;
+    top: 20px;
+    right: -4%;
+}
+.element_2 .owl-next:hover {
+    color: #f5f5f5!important;
+    background-color: #9e9e9e85!important;
+    position: absolute;
+    font-size: 51px!important;
+    padding: 87px 8px !important;
+    top: 10px;
+    right: -4%;
+}
 
 .element_2 .team-section .section-heading h2 {
     color: #5ebaf6;
@@ -349,11 +357,6 @@ nav.navbar.navbar-expand-lg .container {
     margin-bottom: 10px;
 }
 
-.pagehome .element_1 .image img {
-    width: 60%;
-    margin-left: 20%;
-    /* max-height: 263px; */
-}
 .element_2 .owl-dots {
     margin-top: 0px;
     margin-bottom: 40px;
@@ -390,7 +393,7 @@ img {
 .element_2 .owl-carousel .owl-item img {
     display: block;
     width: 100%;
-    height: 267px;
+    height: 195px;
     border-radius: 10px 10px 1px 0px;
 }
 
@@ -398,26 +401,119 @@ img {
 .la_carosell {
     position: relative;
 }
+
 .element_2 .owl-prev {
-    color: #5ebaf6!important;
-    background-color: #efa321!important;
+    color: #ffffff!important;
+    background-color: #ffffff!important;
     position: absolute;
     font-size: 51px!important;
-    padding: 7px 7px !important;
-    top: 116px;
-    left: -6%;
+    
+    padding: 87px 8px !important;
+    top: 20px;
+    
+    left: -4%;
 }
-.element_2 .owl-next {
-    color: #5ebaf6!important;
-    background-color: #efa321!important;
+.element_2 .owl-prev:hover {
+    color: #f5f5f5!important;
+    background-color: #9e9e9e85!important;
     position: absolute;
     font-size: 51px!important;
-    padding: 7px 7px !important;
-    top: 116px;
-    right: -6%;
+    padding: 87px 8px !important;
+    top: 10px;
+    
+    left: -4%;
 }
+
 .pagep_setaple-sanpel .contact-us .right-content ul li {
     text-align: left!important;
+}
+
+
+.block1_home {
+    padding: 17px 2%;
+}
+.pagehome .element_1 .block1_home .image .text p {
+    font-size: 18px;
+    color: #efa729;
+    font-family: 'moifront';
+    font-weight: 900;
+    margin-bottom: 40px;
+}
+.pagehome .element_1 .block1_home .image .text {
+    padding: 22px 5%;
+    padding-right: 0px;
+}
+.pagehome .element_1 .image img {
+    width: 100%;
+    margin-left: 0%;
+    border-radius: 6px;
+}
+
+.pagehome .element_1 .block1_home .block_text p {
+    height: 269px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-color: white;
+}
+.pagehome .element_1 .block1_home .block_text a button {
+    border: none;
+    background: no-repeat;
+    color: white;
+    font-size: 17px;
+    font-weight: 900;
+}
+
+.pagehome .element_1 .block1_home .block_text {
+    width: 80%;
+    padding: 30px 3%;
+    margin-top: 30px;
+    margin-left: 10%;
+}
+.spagehome .element_1 .block1_home .block_text p {
+    height: 277px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 17px 7%;
+    background-color: white;
+    padding-right: 20%;
+}
+.pagehome .element_1 .block1_home .block_text a {
+    background-color: #0f68b5;
+    padding: 10px 21px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 26%;
+}
+.pagehome .element_1 .block1_home .block_text .lebutton {
+    padding-top: 57px;
+}
+.pagehome .element_1 .block1_home .block_text p span {
+    font-weight: 900;
+} 
+.element_1 button.owl-dot.active {
+    display: none;
+}
+.element_2 .blocktaxt .iitme____text----l p {
+    color: #edb556;
+    background-color: #52a3e9;
+    font-size: 19px;
+    font-family: fantasy;
+    font-weight: 800;
+    padding: 30px 9%;
+    margin-right: 4%;
+}
+.element_2 .blocktaxt .iitme____text----l button {
+    color: black;
+    background: none;
+    border: #0c0c0c solid 4px;
+    padding: 4px 13px;
+    font-size: 15px;
+    font-weight: 800;
+    margin-top: 3px;
+}
+.element_2 .blocktaxt .iitme____text----l .block__button {
+    text-align: center;
 }
 @media screen and (max-width: 750px) {
     .munedepage div#navbarNav {
@@ -561,8 +657,7 @@ img {
     min-height: 67px;
 }
 .pagehome .element_1 .block1_home .block_text {
-    background: #090b0a52;
-    width: 100%;
+     width: 100%;
     padding: 31px 5%;
     margin-top: 12px;
     margin-left: 0%;
@@ -579,28 +674,13 @@ img {
 }
 
 
-.element_2 .owl-prev {
-    color: #5ebaf6!important;
-    background-color: #efa321!important;
-    position: absolute;
-    font-size: 41px!important;
-    padding: 0px 7px !important;
-    top: 116px;
-    left: -0%;
-}
-.element_2 .owl-next {
-    color: #5ebaf6!important;
-    background-color: #efa321!important;
-    position: absolute;
-    font-size: 41px!important;
-    padding: 0px 7px !important;
-    top: 116px;
-    right: -2%;
-}
-
 .munedepage .navbar .navbar-toggler {
     border-color: #fff;
     background-color: #efa321;
+}
+.element_2 .blocktaxt .iitme____text----l .block__button {
+    text-align: center;
+    margin-bottom: 48px;
 }
 }
 

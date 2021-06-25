@@ -9,10 +9,31 @@
                     <h2>Onze diensten:</h2>
                  </div>
          </div>
-         <div class="la_carosell">
+
+            <div class="row">
+               <div class="col-12 col-md-4">
+                  <div class="blocktaxt">
+                     <div class="iitme____text----l">
+                     <p>
+                     Wij staan voor flexibliteit in de schoonmaak.<br/><br/><br/>
+                     M%aandelijks opzegbaar<br/><br/><br/>
+                     Schoonmaak van A tot Z
+                     
+                     
+                     </p>
+                     <div class="block__button">
+                     <button>Schoonmaak offerte</button>
+                     </div>
+                     </div>
+                  
+                  </div>
+               
+               
+               </div>
+               <div class="col-12 col-md-8"> <div class="la_carosell">
            <carousel  :navText="['<', '>']"
 
- :loop="true" :responsive="{0:{items:1,nav:false},600:{items:3,nav:false}}">
+                 :loop="true" :responsive="{0:{items:1,nav:false},600:{items:3,nav:false}}">
              <div class="item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
@@ -77,7 +98,10 @@
            </carousel>
          
          </div>
+</div>
+            </div>
 
+        
 
 
 
