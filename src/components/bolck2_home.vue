@@ -10,17 +10,17 @@
          </div>
 
             <div class="row">
-               <div class="col-12 col-md-4">
+               <div class="col-12 col-md-3">
                   <div class="blocktaxt">
                      <div class="iitme____text----l">
                      <p>
                      Wij staan voor flexibliteit in de schoonmaak.<br/><br/><br/>
-                     M%aandelijks opzegbaar<br/><br/><br/>
+                     Maandelijks opzegbaar<br/><br/><br/>
                      Schoonmaak van A tot Z
                      
                      
                      </p>
-                   
+                   <div class="web">
       <router-link
                         :to="{ path: '/offertes', name: 'offertess'}"
                       > 
@@ -31,14 +31,14 @@
                      </div>    
 
                     </router-link>
-
+</div>
                      </div>
                   
                   </div>
                
                
                </div>
-               <div class="col-12 col-md-8"> <div class="row">
+               <div class="col-12 col-md-9"> <div class="row">
             <div class="col-12 col-md-4  item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
@@ -106,7 +106,18 @@
 </div>
             </div>
 
-        
+         <div class="mobil">
+      <router-link
+                        :to="{ path: '/offertes', name: 'offertess'}"
+                      > 
+             
+
+      <div class="block__button">
+                     <button>Offerte aanvragen </button>
+                     </div>    
+
+                    </router-link>
+</div>
 
 
 

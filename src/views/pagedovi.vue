@@ -5,7 +5,7 @@
     <div class="block_taepe--de-page">
 
 
-        <h2>demandes offertes</h2>
+        <h2>     Offerte aanvragen</h2>
     </div>
 
     <div class="right-content contact-us">
@@ -13,8 +13,7 @@
                   <div class="row">
                       <div class="col-12  col-md-6">
                           <div class="">
-                          <h3>
-                          Offerte aanvragen:</h3>
+                        
                           <p>
 
 Bij ons kun je gemakkelijk een vrijblijvende offerte aanvragen. Door onderstaande vragen te beantwoorden en op de verzend button te klikken kunnen wij een offerte op maat voor u maken.                        </p>

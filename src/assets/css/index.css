@@ -254,14 +254,6 @@ nav.navbar.navbar-expand-lg .container {
     padding: 0px 2px;
     
 }
-.pagep_setaple-sanpel .block_taepe--de-page h2 {
-    color: #eea21f;
-    background: #5ebaf6;
-    text-align: center;
-    padding: 24px 4px;
-    font-size: 41px;
-    margin-bottom: 0px;
-}
 .home.vue__de__site .section-heading p {
     font-size: 18px;
     color: #1c394c;
@@ -280,28 +272,10 @@ nav.navbar.navbar-expand-lg .container {
     margin: 46px;
     text-align: center;
 }
-.block__bottne a button {
-    border: none;
-    color: white;
-    background-color: #f2bb5a;
-    padding: 7px 50px;
-    font-size: 23px;
-    font-weight: 500;
-    border-radius: 10px;
-}
 
 .home.vue__de__site .blockfromelare label {
     font-size: 26px;
     color: #5ebaf6;
-}
-.home.vue__de__site .blockfromelare button.btn.btn-primary {
-    background: #eea21e;
-    border: none;
-    color: white;
-    font-size: 22px;
-    width: 40%;
-    margin-left: 30%;
-    margin-top: 13px;
 }
 .pagep_setaple-sanpel .right-content.contact-us img {
     width: 94%;
@@ -485,35 +459,12 @@ img {
 .element_1 button.owl-dot.active {
     display: none;
 }
-.element_2 .blocktaxt .iitme____text----l p {
-    color: #edb556;
-    background-color: #52a3e9;
-    font-size: 19px;
-    font-family: fantasy;
-    font-weight: 800;
-    padding: 30px 9%;
-    border-radius: 17px;
-    margin-right: 4%;
-    width: 100%;
-}
-
 .element_2 .blocktaxt .iitme____text----l .block__button {
     text-align: center;
 }
 .element_2 .block__button {
     text-align: center;
     /* border: none; */
-}
-.element_2 .block__button button {
-    border: none;
-    color: #52a3e9;
-    background-color: #f2bb5a;
-    padding: 7px 26px;
-    font-size: 23px;
-    font-weight: 500;
-    border-radius: 10px;
-    margin-top: 140px;
-    width: 100%;
 }
 .element_2 .team-section .item img {
     height: 125px;
@@ -543,17 +494,84 @@ img {
     overflow-x: hidden;
     color: #526372;
 }
+.element_2 .blocktaxt .iitme____text----l p {
+    color: #edb556;
+    /* background-color: #52a3e9; */
+    font-size: 19px;
+    font-family: fantasy;
+    border: #52a3e9 solid 3px;
+    font-weight: 800;
+    padding: 30px 9%;
+    border-radius: 17px;
+    margin-right: 4%;
+    width: 100%;
+}
+.element_2 .block__button button {
+    border: none;
+    color: #52a3e9;
+    background-color: white;
+    padding: 7px 26px;
+    font-size: 23px;
+    border: #f2bb5a solid 4px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-top: 140px;
+    width: 100%;
+}
+.pagep_setaple-sanpel .block_taepe--de-page h2 {
+    color: #eea21f;
+    border: #5ebaf6 solid 3px;
+    text-align: center;
+    padding: 24px 4px;
+    font-size: 41px;
+    margin-bottom: 0px;
+    border-radius: 20px;
+    margin: 12px 6%;
+}
+.block2 .mobil{
+    display:none;
+}
+.block__bottne a button {
+    /* border: none; */
+    color: #efa71f;
+    background-color: white;
+     padding: 7px 50px;
+    font-size: 23px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: #f2bb5a solid 4px;
+}
+.home.vue__de__site .blockfromelare button.btn.btn-primary {
+    background: #ffffff;
+    /* border: none; */
+    color: #eea21e;
+    font-size: 22px;
+    border: #eea21e solid 3px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 13px;
+    border-radius: 11px;
+}
 @media screen and (max-width: 750px) {
+   .block__bottne a button {
+    /* border: none; */
+    width: 99%;
+    color: #efa71f;
+    background-color: white;
+    padding: 7px 50px;
+    font-size: 23px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: #f2bb5a solid 4px;
+}
+    
+.block2 .mobil{
+    display:block;
+}
     .munedepage div#navbarNav {
     padding-top: 60px;
 }
-    .pagep_setaple-sanpel .block_taepe--de-page h2 {
-     
-        text-align: center;
-        padding: 23px 4px;
-        font-size: 23px;
-        margin-bottom: 0px;
-    }
+  
     .footer_site p {
         font-size: 10px;
         color: aliceblue;
@@ -648,16 +666,7 @@ img {
     padding-bottom: 21px;
 }
 
-.block__bottne a button {
-    border: none;
-    width: 99%;
-    color: white;
-    background-color: #f2bb5a;
-    padding: 7px 50px;
-    font-size: 23px;
-    font-weight: 500;
-    border-radius: 10px;
-}
+
 
 .block__bottne {
     margin: 28px 6px;
@@ -709,6 +718,77 @@ img {
 .element_2 .blocktaxt .iitme____text----l .block__button {
     text-align: center;
     margin-bottom: 48px;
+}
+.element_2 .blocktaxt .iitme____text----l p{
+    display:none;
+}
+.block2 .web{
+    display:none;
+}
+.element_2 .block__button button {
+    border: none;
+    color: #52a3e9;
+    background-color: white;
+    padding: 7px 26px;
+    font-size: 23px;
+    border: #f2bb5a solid 4px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-top: 13px;
+    width: 100%;
+    margin-bottom: 36px;
+}
+
+.element_2 .team-section .item img {
+    height: 229px;
+}
+.page_dety_serves .block_sev .text p {
+    font-size: 17px;
+    padding-top: 20px;
+    padding: 5px 20px;
+    height: 272px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin: 40px 1%;
+    color: #526372;
+}
+.page_dety_serves .block_sev {
+    margin: -40px 2%;
+}
+.pagep_setaple-sanpel .block_taepe--de-page h2 {
+    border: none;
+    text-align: center;
+    padding: 23px 4px;
+    font-size: 23px;
+    margin: 16px 3%;
+    color: #020202;
+    font-weight: 800;
+}
+.pagep_setaple-sanpel .about-us {
+    padding: 8px 0px;
+    background-color: #f7f7f7;
+}
+.pagep_setaple-sanpel .left-image img {
+    width: 100%;
+    margin-top: 14px;
+    height: 301px;
+}
+.pagep_setaple-sanpel .about-us .section-heading h2 {
+    color: #eea21f;
+    font-size: 21px;
+    line-height: 35px;
+    
+    margin-top: -8px;
+}
+.about-us .right-content, .contact-us .right-content {
+    margin-left: 0px;
+    padding: 1px 1%;
+}
+.pagep_setaple-sanpel .right-content.contact-us p {
+    font-size: 17px;
+    color: #6a6a6a;
+    line-height: 25px;
+    display: inline-block;
 }
 }
 
