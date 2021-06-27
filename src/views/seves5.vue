@@ -12,8 +12,8 @@
             </div>
             <div class="col-12 col-md-6">
                 <div class="text">
-                    <p>Een dieptereiniging is een zeer grondige schoonmaak waarbij er vaste elementen verwijderd worden om ergens zo goed mogelijk onder, tussen of achter schoon te kunnen maken. Denk hierbij aan het diepreinigen van uw grootkeuken of sanitair. Vet, vuil, stof en bacteriën nestelen zich vaak in de onbereikbare delen. Om dit goed te kunnen reinigen is een professionele dieptereiniging nodig. 
-Bij een dieptereiniging demonteren wij wastafels, kranen, wc zittingen en keukenapparatuur. Onze specialisten werken met speciale (stoom) machines en andere apparatuur om zo goed mogelijk al het vuil, vet en aanslag te kunnen verwijderen. Daarnaast desinfecteren wij alle oppervlakten om deze ook bacterievrij te maken. De grondige dieptereiniging voeren wij uit volgens de HACCP richtlijnen. Zo weet u zeker dat de sanitaire ruimtes en keukens echt hygiënisch schoon zijn.
+                    <p>Een dieptereiniging is een  <span> zeer grondige schoonmaak </span>waarbij er vaste elementen verwijderd worden om ergens zo goed mogelijk onder, tussen of achter schoon te kunnen maken. Denk hierbij aan het <span>diepreinigen van uw grootkeuken of sanitair.</span> Vet, vuil, stof en bacteriën nestelen zich vaak in de onbereikbare delen. Om dit goed te kunnen reinigen is een professionele dieptereiniging nodig. 
+Bij een dieptereiniging demonteren wij wastafels, kranen, wc zittingen en keukenapparatuur. Onze specialisten werken met <span>speciale (stoom) machines </span>en andere apparatuur om zo goed mogelijk al het vuil, vet en aanslag te kunnen verwijderen. <span>Daarnaast desinfecteren wij alle oppervlakten </span> om deze ook bacterievrij te maken. De grondige dieptereiniging voeren wij uit volgens de<span> HACCP richtlijnen.</span> Zo weet u zeker dat de sanitaire ruimtes en keukens echt hygiënisch schoon zijn.
 
 </p>
                 </div>

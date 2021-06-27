@@ -15,10 +15,16 @@ import seves5  from '../views/seves5.vue'
 import Cookies  from '../views/Cookies.vue'
 import seves6  from '../views/seves6.vue'
 import pagedovi  from '../views/pagedovi.vue'
+
+import Privacyverklaring  from '../views/Privacyverklaring.vue'
 import postule  from '../views/postule.vue'
 
 const routes = [
   {
+    path: '/Privacyverklaring',
+    name: 'Privacyverklaring',
+    component:Privacyverklaring,  
+  } ,{
     path: '/Cookies',
     name: 'Cookies',
     component:Cookies ,  

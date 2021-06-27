@@ -13,7 +13,7 @@
             <div class="col-12 col-md-6">
                 <div class="text">
                     <p>
-Het kan voorkomen dat er een dringende reden is voor een specialistische schoonmaak. Wij zijn in het geval van calamiteiten 24/7 beschikbaar. Bij water, storm of brandschade kun je altijd contact met ons opnemen en zijn wij altijd bereikbaar. Zo kun je er gerust op zijn dat wij altijd een team paraat hebben staan om te helpen en ontzorgen.
+Het kan voorkomen dat er een <span>dringende reden </span> is voor een specialistische schoonmaak. Wij zijn in het geval van calamiteiten <span> 24/7 beschikbaar.</span> Bij water, storm of brandschade kun je altijd contact met ons opnemen en zijn wij altijd bereikbaar. Zo kun je er gerust op zijn dat wij altijd een team paraat hebben staan om te <span> helpen en ontzorgen</span>.
 </p>
                 </div>
             </div>

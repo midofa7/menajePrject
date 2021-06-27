@@ -15,7 +15,7 @@
                     <p>Vloeren worden normaliter veel gebruikt. Om de levensduur van de vloer te verlengen, is het van belang om deze regelmatig te laten onderhouden. Daarnaast kunnen verschillende factoren zoals vocht, vuil of zand ervoor zorgen dat vloeren veel sneller slijten. Periodiek de vloeren laten behandelen gaat dit tegen. 
 
 
-Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een aparte behandeling nodig. Wij hebben medewerkers die gespecialiseerd zijn in het reinigen en onderhouden van verschillende soorten vloeren. Omdat wij het milieu erg belangrijk vinden, werken wij uitsluitend met milieuvriendelijke schoonmaakproducten. 
+Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een aparte behandeling nodig. Wij hebben medewerkers die <span> gespecialiseerd zijn in het reinigen en onderhouden van verschillende soorten vloeren.</span> Omdat wij het milieu erg belangrijk vinden, werken wij uitsluitend met <span> milieuvriendelijke schoonmaakproducten. </span>
 
                     
 </p>

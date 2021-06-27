@@ -10,10 +10,16 @@
       <div class="text_block">
           <p><i class="fas fa-envelope-open"></i><span> info@flexschoon.nl </span></p>
           <p><i class="fa fa-phone"></i><span> 06 87 52 4936</span></p>
-           <p><i class="fab fa-facebook"></i><span>Flexschoon</span></p> 
-          <p><i class="fab fa-instagram-square"></i><span>Flexschoon</span></p>
+           <p> <a href="https://www.facebook.com/Flexschoon-101549458843889/"> <i class="fab fa-facebook"></i><span>Flexschoon</span></a></p> 
+          <p><a href="https://www.instagram.com/flexschoon/"><i class="fab fa-instagram-square"></i><span>Flexschoon</span></a></p>
 
           
+
+   <router-link
+                        :to="{ path: '/Privacyverklaring', name: 'Privacyverklaring'}"
+                      >   <a href="" class="nav-link ">
+                  Privacyverklaring </a>
+                    </router-link>
 
    <router-link
                         :to="{ path: '/Cookies', name: 'Cookies'}"

@@ -14,7 +14,7 @@
                 <div class="text">
                     <p>
 Schone ramen geven vaak de eerste indruk van het bedrijf en zijn het visitekaartje voor de bezoekers. Om ramen en kozijnen in optimale staat te houden is het erg belangrijk om regelmatig de ramen te laten wassen.
-Flexschoon werkt uitsluitend met topglazenwassers. Wij zorgen voor een vast gezicht. Op deze manier kun je er zeker van zijn dat de glazenwassers bekend zijn met de locatie en zijn zij van elk detail op de hoogte voor het best haalbare resultaat. Wij garanderen dan ook blinkende en streep loze ramen.
+Flexschoon werkt uitsluitend met topglazenwassers. Wij zorgen voor<span> een vast gezicht. </span>Op deze manier kun je er zeker van zijn dat de glazenwassers bekend zijn met de locatie en zijn zij van elk detail op de hoogte voor het best haalbare resultaat.<span> Wij garanderen dan ook blinkende en streep loze ramen.</span>
 
 </p>
                 </div>

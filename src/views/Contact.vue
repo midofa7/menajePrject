@@ -45,11 +45,11 @@ Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo 
                             </ul>
                         </div> <div class=" col-md-6 col-12">
                             <ul>
-                                <li><i class="fab fa-facebook"></i><p>Flexschoon</p></li>
+                                <li><a href="https://www.facebook.com/Flexschoon-101549458843889/"><i class="fab fa-facebook"></i><p>Flexschoon</p></a></li>
                             </ul>
                         </div> <div class=" col-md-6 col-12">
                             <ul>
-                                <li><i class="fab fa-instagram-square"></i><p>Flexschoon </p></li>
+                                <li><a href="https://www.instagram.com/flexschoon/"><i class="fab fa-instagram-square"></i><p>Flexschoon </p></a></li>
                             </ul>
                         </div> 
                     

@@ -12,12 +12,13 @@
             </div>
             <div class="col-12 col-md-6">
                 <div class="text">
-                    <p>Wij bieden schoonmaak op maat. Met jaren aan ervaring hebben wij medewerkers in huis die opgeleid zijn voor zowel specialistische reiniging als dagelijkse schoonmaak. Onze medewerkers zijn zowel klantgericht als proactief. Mocht het de medewerker opvallen dat er extra of andersoortige schoonmaak nodig is dan nemen wij hierover direct contact met je op.
+                    <p>Wij bieden schoonmaak op maat. Met jaren aan ervaring hebben wij medewerkers in huis die opgeleid zijn voor
+                    <span> zowel specialistische reiniging als dagelijkse schoonmaak.</span>  Onze medewerkers zijn zowel klantgericht als proactief. Mocht het de medewerker opvallen dat er extra of andersoortige schoonmaak nodig is dan nemen wij hierover direct contact met je op.
                     
 Wij vinden het belangrijk om je zo goed mogelijk te bedienen. Vooraf bespreken wij de mogelijkheden en leggen wij je wensen vast zodat je altijd weet waar je aan toe bent. 
-Daarnaast maken wij voor al onze schoonmaakhandelingen gebruik van de meest moderne en milieuvriendelijke middelen en technieken.
+Daarnaast maken wij voor al onze schoonmaakhandelingen gebruik van de meest<span > moderne en milieuvriendelijke middelen en technieken.</span>
 <br>
-Wij als dienstverlener in de schoonmaak helpen je graag de locatie schoon te houden zodat je zo onbezorgd mogelijk je werkzaamheden kunt blijven verrichten op een schone locatie. Wij ontzorgen je graag.
+Wij als dienstverlener in de schoonmaak helpen je graag de locatie schoon te houden zodat je zo <span>onbezorgd</span>  mogelijk je werkzaamheden kunt blijven verrichten op een schone locatie. Wij ontzorgen je graag.
 
                     </p>
             
