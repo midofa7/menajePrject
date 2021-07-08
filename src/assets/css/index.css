@@ -624,7 +624,7 @@ img:hover  {
     background-image: url('../img/img_1.png');
          background-size: 127%;
         min-width: 100%;
-        min-height: 711px;
+        min-height: 760px;
     
 }
 
@@ -698,7 +698,7 @@ img:hover  {
     margin-right: 0px;
 }
 .block__elemmt__textbtn .row {
-    width: 101%;
+    width: 100%;
 }
 
 .home_2_pagee .text_block ul p {
