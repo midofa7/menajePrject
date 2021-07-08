@@ -622,9 +622,10 @@ img:hover  {
 }
 .home_2_pagee {
     background-image: url('../img/img_1.png');
-    background-size: 124%;
-    min-width: 100%;
-    min-height: 670px;
+         background-size: 127%;
+        min-width: 100%;
+        min-height: 711px;
+    
 }
 
 .munedepage nav.navbar.navbar-expand-lg {
@@ -634,6 +635,9 @@ img:hover  {
 }
 .munedepage {
     width: 100%;
+}
+.lacaroseel .card {
+    background: none!important;
 }
 
 .munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
@@ -676,7 +680,7 @@ img:hover  {
     position: relative;
 }
 .home_2_pagee .right__block .lacaroseel {
-    padding-top: 55px;
+    padding-top: 130px;
     padding-left: 14%;
 }
 
@@ -712,7 +716,7 @@ img:hover  {
     padding-left: 10%;
     position: absolute;
     width: 100%;
-    top: 280px;
+    top: 340px;
     border-radius: 113px 1px 1px 1px;
 }
 
@@ -761,6 +765,7 @@ img:hover  {
     left: -5%;
 }
 .munedepage {
+    margin-bottom: 50px;
     margin: 0px 4%;
     width: 92%;
 }
