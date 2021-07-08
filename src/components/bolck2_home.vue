@@ -38,7 +38,8 @@
                
                
                </div>
-               <div class="col-12 col-md-9"> <div class="row">
+               <div class="col-12 col-md-9">
+                <div class="row">
             <div class="col-12 col-md-4  item"><router-link
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  

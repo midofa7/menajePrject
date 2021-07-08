@@ -1,6 +1,10 @@
 
 <template>
 <div class="page_dety_serves ">
+
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
+
     <div class="container">
         <div class="tetel">
             <h3>	Dieptereiniging</h3>
@@ -31,15 +35,17 @@ Bij een dieptereiniging demonteren wij wastafels, kranen, wc zittingen en keuken
         </div>
     </div>
 
-</div>
+</div></div>
 </template>
 
 <script>
 
 
+import munedepage from "../components/munepage";
 export default {
   name: "Home",
   components: {
+      munedepage,
   },
 
   props: [],

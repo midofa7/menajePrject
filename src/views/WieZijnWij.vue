@@ -2,6 +2,8 @@
 <template>
   <div class="pagep_setaple-sanpel">
 
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
     <div class="block_taepe--de-page">
 
 
@@ -40,15 +42,17 @@ iedereen heeft het COVID-19 virus veel teweeg gebracht. Zo hebben wij begrijpeli
                     </router-link>
       
         </div>
-</div>
+</div></div>
 </template>
 
 <script>
 
+import munedepage from "../components/munepage";
 
 export default {
   name: "Home",
   components: {
+      munedepage,
   },
 
   props: [],

@@ -2,6 +2,8 @@
 
 <template>
 <div class="pagep_setaple-sanpel">
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
 
     <div class="block_taepe--de-page">
 
@@ -34,7 +36,7 @@ Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo 
                  </div>
     </div>
 
-
+</div>
 </div>
 
 
@@ -45,10 +47,11 @@ Ook is het mogelijk om direct met ons een persoonlijk gesprek in te plannen. Zo 
 import blcokfrom from "../components/blcok_from";
 
 
+import munedepage from "../components/munepage";
 export default {
   name: "Home",
   components: {
-      blcokfrom,
+      blcokfrom,munedepage,
   },
 
   props: [],

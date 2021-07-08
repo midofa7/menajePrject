@@ -2,6 +2,8 @@
 <template>
 <div class="pagep_setaple-sanpel">
 
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
     <div class="block_taepe--de-page">
 
 
@@ -28,7 +30,7 @@ Bij ons kun je gemakkelijk een vrijblijvende offerte aanvragen. Door onderstaand
                  </div>
     </div>
 
-
+</div>
 </div>
 
 
@@ -36,13 +38,14 @@ Bij ons kun je gemakkelijk een vrijblijvende offerte aanvragen. Door onderstaand
 
 <script>
 
+import munedepage from "../components/munepage";
 import blcokfrom from "../components/blcok_from";
 
 
 export default {
   name: "Home",
   components: {
-      blcokfrom,
+      blcokfrom,munedepage,
   },
 
   props: [],

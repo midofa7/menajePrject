@@ -1,6 +1,7 @@
 
 <template>
   <div><div class="lesite___web">
+  
   <div class="icone_conatct">
   
   
@@ -11,29 +12,35 @@
                       <i class="fas fa-comments"></i> 
                     </router-link>
                          </div>
-      <div class="munedepage"><munedepage/></div>
-      <div class="home vue__de__site"><router-view/></div>
+    
+      <div class=""><router-view/></div>
       <div class="footer_site"><foter/></div></div>
   </div>
 </template>
 
 <script>
 
-import munedepage from "./components/munepage";
 import foter from "./components/footer";
 export default {
   name: "Home",
   components: {
-    munedepage,
+    
     foter,
   },
 
+ data() {
+    return {
+      
+    }
+  },
   props: [],
   created: function () { 
 
+  },
+  methods: {
+
     
   },
-  methods: {},
 };
 </script>
 <style scoped>

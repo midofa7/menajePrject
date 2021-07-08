@@ -35,16 +35,10 @@ position: relative;
 }
 
 
-.munedepage nav.navbar.navbar-expand-lg {
-    padding: 6px 0%;
-    min-height: 100px;
-    background-color: white;
-}
 .munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
-    color: #eea21f;
-    font-size: 13px;
+   font-size: 13px;
     width: 99%;
-    font-weight: 600;
+    font-weight: 500;
 }
 .pagehome .element_1 .block1_home {
     position: relative;
@@ -141,9 +135,6 @@ position: relative;
     margin-left: 5%;
 }
 
-.munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
-    color: #eea21f;
-}
 
 
 
@@ -158,7 +149,7 @@ position: relative;
 }
 
 .mune__de_page a.navbar-brand.logo img {
-    width: 80%;
+    width: 50%;
     border-radius: 10px;
     margin-left: -20%;
 }
@@ -251,7 +242,7 @@ nav.navbar.navbar-expand-lg .container {
     background: #5ebaf6;
     text-align: center;
 
-    padding: 0px 2px;
+    padding: 6px 2px;
     
 }
 .home.vue__de__site .section-heading p {
@@ -629,8 +620,178 @@ img:hover  {
     text-align: center;
     padding: 2px 21%;
 }
+.home_2_pagee {
+    background-image: url('../img/img_1.png');
+    background-size: 124%;
+    min-width: 100%;
+    min-height: 670px;
+}
 
+.munedepage nav.navbar.navbar-expand-lg {
+    padding: 6px 0%;
+    min-height: 100px;
+    background: no-repeat;
+}
+.munedepage {
+    width: 100%;
+}
 
+.munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
+    color: #ffffff;
+    margin-left: 2px;
+}
+.munedepage .navbar .navbar-nav .nav-item{
+    padding: 0px 0px;
+}
+.block_taepe--de-page {
+    padding-top: 106px;
+}
+.home_2_pagee .text_block {
+    padding-left: 9%;
+    padding-top: 138px;
+}
+.home_2_pagee .text_block ul {
+    padding: 0px;
+    list-style: none;
+}
+
+.home_2_pagee .text_block ul li {
+    padding-bottom: 25px;
+}
+.home_2_pagee .text_block button {
+    border: none;
+    color: #5ebaf6;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 6px 23px;
+    border-radius: 24px;
+}
+
+.home_2_pagee .text_block ul img {
+    width: 30px;
+    margin-right: 10px;
+}
+.home_2_pagee .right__block .lacaroseel .item{
+    position: relative;
+}
+.home_2_pagee .right__block .lacaroseel {
+    padding-top: 55px;
+    padding-left: 14%;
+}
+
+.home_2_pagee .right__block .lacaroseel .item h3 {
+    position: absolute;
+    top: 75%;
+    color: aliceblue;
+    font-size: 13px;
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+}
+.row {
+    width: 101%;
+    margin-right: 0px;
+}
+.block__elemmt__textbtn .row {
+    width: 101%;
+}
+
+.home_2_pagee .text_block ul p {
+    color: white;
+    font-size: 28px;
+    line-height: 35px;
+    font-weight: 700;
+}
+.home_2_pagee .right__block {
+    position: relative;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn {
+    background-color: white;
+    padding-top: 125px;
+    padding-left: 10%;
+    position: absolute;
+    width: 100%;
+    top: 280px;
+    border-radius: 113px 1px 1px 1px;
+}
+
+.home_2_pagee .right__block .lacaroseel .item img {
+    width: 100%;
+    border-radius: 20px;
+    height: 262px;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textLfet h3 {
+    font-size: 27px;
+    font-weight: 600;
+    padding-bottom: 81px;
+    color: #5ebaf6;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright {
+    background-color: #f0ae41;
+    padding: 8px 7px;
+    padding-left: 22%;
+    border-radius: 63px 1px 1px 1px;
+    margin-top: 35px;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright p {
+    color: white;
+    font-size: 18px;
+    font-weight: 800;
+    padding-bottom: 8px;
+    padding-top: 3px;
+}
+.home_2_pagee .lacaroseel .owl-theme .owl-dots .owl-dot span {
+    background: #4f95c4;
+    width: 10px;
+    height: 10px;
+    margin: 35px 5px;
+    border-radius: 150px;
+}
+.home_2_pagee .lacaroseel .owl-theme .owl-dots .owl-dot.active span {
+    background: #efa71f;
+    width: 10px;
+    height: 10px;
+    margin: 35px 5px;
+    border-radius: 150px;
+} 
+.lacaroseel .owl-dots {
+    position: absolute;
+    top: 139%;
+    left: -5%;
+}
+.munedepage {
+    margin: 0px 4%;
+    width: 92%;
+}
+.footer_site .block_bottn p a {
+    display: inline-block;
+    margin: 0px;
+}
+.lacaroseel .owl-nav {
+    display: block;
+    color: antiquewhite;
+}
+.lacaroseel .owl-prev {
+    position: absolute;
+    top: 141%;
+    height: 32px;
+    left: 29%;
+    width: 31px!important;
+    border-radius: 52px!important;
+    font-size: 20px!important;
+    padding: 1px 7px!important;
+}
+.lacaroseel .owl-next {
+    position: absolute;
+    top: 141%;
+    height: 32px;
+    left: 35%;
+    width: 31px!important;
+    border-radius: 52px!important;
+    font-size: 20px!important;
+    padding: 1px 7px!important;
+}
 @media screen and (max-width: 750px) {
     .text--block {
         text-align: center;

@@ -1,6 +1,9 @@
 
 <template>
 <div class="page_dety_serves ">
+
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
     <div class="container">
         <div class="tetel">
             <h3>Vloeronderhoud</h3>
@@ -33,16 +36,19 @@ Onze specialisten zijn vakmensen met bakken ervaring. Elke vloer heeft een apart
       
         </div>
         </div>
-
+</div>
 </div>
 </template>
 
 <script>
 
+import munedepage from "../components/munepage";
+
 
 export default {
   name: "Home",
   components: {
+      munedepage,
   },
 
   props: [],

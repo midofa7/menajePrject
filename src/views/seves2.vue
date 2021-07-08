@@ -1,6 +1,9 @@
 
 <template>
 <div class="page_dety_serves ">
+
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
     <div class="container">
         <div class="tetel">
             <h3>	Glasbewassing</h3>
@@ -29,18 +32,19 @@ Flexschoon werkt uitsluitend met topglazenwassers. Wij zorgen voor<span> een vas
                   <button>  Offerte aanvragen </button> 
                     </router-link>
       
-        </div> 
+        </div></div> 
     </div>
 
 </div>
 </template>
 
 <script>
-
+import munedepage from "../components/munepage";
 
 export default {
   name: "Home",
   components: {
+      munedepage,
   },
 
   props: [],

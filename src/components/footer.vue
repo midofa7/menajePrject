@@ -1,40 +1,21 @@
 
 <template>
   <div class="footer">
-   <div class="">
-     <div class="block__top" >
-     
-      <div class="image">
-         <img src="../assets/img/logo.png"/>
-      </div>
-      <div class="text_block">
-          <p><i class="fas fa-envelope-open"></i><span> info@flexschoon.nl </span></p>
-          <p><i class="fa fa-phone"></i><span> 06 87 52 4936</span></p>
-           <p> <a href="https://www.facebook.com/Flexschoon-101549458843889/"> <i class="fab fa-facebook"></i><span>Flexschoon</span></a></p> 
-          <p><a href="https://www.instagram.com/flexschoon/"><i class="fab fa-instagram-square"></i><span>Flexschoon</span></a></p>
-
-          
-
+    
+    <div class="block_bottn">
+    <p>-– © flexschoon 2021/2020
    <router-link
                         :to="{ path: '/Privacyverklaring', name: 'Privacyverklaring'}"
                       >   <a href="" class="nav-link ">
                   Privacyverklaring </a>
-                    </router-link>
+                    </router-link>| 
 
    <router-link
                         :to="{ path: '/Cookies', name: 'Cookies'}"
                       >   <a href="" class="nav-link ">
              <i class="fas fa-cookie-bite"></i>       Cookies </a>
-                    </router-link>
-
-
-      
-      </div>
-      </div>
-     
-     </div>
-    <div class="block_bottn">
-    <p>-– © flexschoon 2021/2020</p>
+                    </router-link> | Plastsen
+    </p>
     </div>   
   </div>
 </template>

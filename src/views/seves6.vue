@@ -1,6 +1,9 @@
 
 <template>
 <div class="page_dety_serves ">
+
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
     <div class="container">
         <div class="tetel">
             <h3>	Calamiteitenservice: </h3>
@@ -30,15 +33,17 @@ Het kan voorkomen dat er een <span>dringende reden </span> is voor een specialis
         </div>
          </div>
 
-</div>
+</div></div>
 </template>
 
 <script>
 
 
+import munedepage from "../components/munepage";
+
 export default {
   name: "Home",
-  components: {
+  components: {munedepage,
   },
 
   props: [],

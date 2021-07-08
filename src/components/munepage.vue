@@ -1,8 +1,8 @@
 
 <template>
-  <div class="mune__de_page container">
+  <div class="mune__de_page ">
     <nav class="navbar navbar-expand-lg">
-        <div class="container">
+        <div class="">
             <a class="navbar-brand logo" href="">
      
                                             <router-link

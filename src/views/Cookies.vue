@@ -2,6 +2,8 @@
 <template>
 
 <div class="Cookies">
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div>
 
     <div class="container">
 <div class="tatlledepage"><h3>Cookies</h3></div>
@@ -121,14 +123,17 @@ Telefoonnummer: 06 87 52 4936
             </div>
         </div>
 
-    </div>
+    </div></div>
 </div>
 </template>
 
 <script>
+
+import munedepage from "../components/munepage";
 export default {
   name: "Home",
   components: {
+      munedepage,
     
   },
 

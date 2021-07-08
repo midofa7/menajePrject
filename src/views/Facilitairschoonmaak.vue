@@ -1,7 +1,9 @@
 
 <template>
   <div class="pagep_setaple-sanpel">
- 
+
+      <div class="home vue__de__site">
+<div class="munedepage"><munedepage/></div> 
 <div class="block_taepe--de-page">
                 
 
@@ -37,16 +39,19 @@ Schoonmaak en communicatie zijn voor ons de belangrijkste factoren voor een goed
                   <button> Offerte aanvragen </button> 
                     </router-link>
       
-        </div>
+        </div></div>
   </div>
 </template>
 
 <script>
 
 
+import munedepage from "../components/munepage";
+
 export default {
   name: "Home",
   components: {
+    munedepage,
   },
 
   props: [],

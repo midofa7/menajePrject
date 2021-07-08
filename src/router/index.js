@@ -2,7 +2,7 @@ import Vue from "vue";
 import VueRouter from "vue-router";
 Vue.use(VueRouter);
 
-import home from '../views/home.vue'
+import home from '../views/home2.vue'
 import  Facilitairschoonmaak from '../views/Facilitairschoonmaak.vue'
 import WieZijnWij from '../views/WieZijnWij.vue'
 import Contact  from '../views/Contact.vue'
