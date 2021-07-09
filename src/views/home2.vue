@@ -109,10 +109,10 @@
 
 <div class="block__elemmt__textbtn">
      <div class="row">
-         <div class="col-7"><div class="textLfet">
+         <div class="col-12 col-md-7"><div class="textLfet">
          <h3>Calamitenservice</h3>
          </div></div>
-         <div class="col-5 p-0"><div class="textright">
+         <div class="col-12 col-md-5 p-0"><div class="textright">
          <p>Direct cotact</p>
          <p><img src="../assets/img/icon22.svg"/>06 87 52 49 39</p>
          </div></div>
