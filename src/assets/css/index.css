@@ -797,6 +797,20 @@ img:hover  {
     font-size: 20px!important;
     padding: 1px 7px!important;
 }
+.owl-theme .owl-nav .owl-next {
+    color: #FFF;
+    font-size: 14px;
+    margin: 5px;
+    padding: 4px 7px;
+    background: #454545;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.home_2_pagee .munedepage nav.navbar.navbar-expand-lg div#navbarNav ul li a {
+    color: #ffffff;
+    margin-left: 2px;
+}
 @media screen and (max-width: 750px) {
     .text--block {
         text-align: center;
