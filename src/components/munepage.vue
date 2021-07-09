@@ -8,7 +8,7 @@
                                             <router-link
                         :to="{ path: '/home', name: 'home' }"
                       >  
-            <img src="../assets/img/logo.png"/>
+            <img src="../assets/img/logo2.png"/>
                         </router-link>
             </a>
 

@@ -725,12 +725,6 @@ img:hover  {
     border-radius: 20px;
     height: 330px;
 }
-.home_2_pagee .right__block .block__elemmt__textbtn .textLfet h3 {
-    font-size: 27px;
-    font-weight: 600;
-    padding-bottom: 81px;
-    color: #5ebaf6;
-}
 .home_2_pagee .right__block .block__elemmt__textbtn .textright {
     background-color: #f0ae41;
     padding: 8px 7px;
@@ -965,11 +959,7 @@ img:hover  {
     margin-top: 12px;
     margin-left: 0%;
 }
-.mune__de_page a.navbar-brand.logo img {
-    width: 53%;
-    margin-left: 52%;
-    margin-top: -11px;
-}
+
 .pagehome .element_1 .image img {
     width: 100%;
     margin-left: 0%;
@@ -1108,14 +1098,20 @@ img:hover  {
 .home_2_pagee .text_block {
     padding-left: 3%;
     padding-top: 49px;
-    background-image: url('../img/img_1.png');
-    background-size: 210%;
+   background-size: 210%;
     margin-left: 8%;
     padding-bottom: 40px;
 }
 .home_2_pagee {
-
-    background: none!important;
+    background-image: url('../img/backmobile.png');
+    background-size: 127%;
+    min-width: 100%;
+    height: 621px;
+    min-height: 600px;
+}
+.home_2_pagee .right__block .lacaroseel {
+    padding-top: 16px;
+    padding-left: 10%;
 }
 .home_2_pagee .right__block .block__elemmt__textbtn .textLfet h3 {
     font-size: 27px;
@@ -1123,6 +1119,76 @@ img:hover  {
     padding-bottom: 81px;
     text-align: center;
     color: #5ebaf6;
+}
+
+.lacaroseel .owl-prev {
+    position: absolute;
+    top: 106%;
+    height: 32px;
+    left: 29%;
+    width: 31px!important;
+    border-radius: 52px!important;
+    font-size: 20px!important;
+    padding: 1px 7px!important;
+}
+.lacaroseel .owl-next {
+    position: absolute;
+    top: 106%;
+    height: 32px;
+    left: 53%;
+    width: 31px!important;
+    border-radius: 52px!important;
+    font-size: 20px!important;
+    padding: 1px 7px!important;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textLfet h3 {
+    font-size: 27px;
+    font-weight: 600;
+    padding-bottom: 81px;
+    text-align: center;
+    color: #5ebaf6;
+    display: none;
+}
+.lacaroseel .owl-dots {
+    position: absolute;
+    top: 135%;
+    display: none;
+    left: -5%;
+    z-index: 99999999999999999999999999;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn {
+    background-color: white;
+    padding-top: 7px;
+    padding-left: 10%;
+    position: absolute;
+    width: 100%;
+    right: -13px;
+    top: 380px;
+    border-radius: 113px 1px 1px 1px;
+    padding-right: 6%;
+    padding-bottom: 34px;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright {
+    background-color: #f0ae41;
+    padding: 8px 7px;
+    padding-left: 22%;
+    border-radius: 30px;
+    margin-top: 35px;
+}
+.footer_site {
+    margin-top: 417px;
+    background: #5ebaf6;
+    text-align: center;
+    padding: 6px 2px;
+}
+.footer_site .block_bottn p a {
+    margin: 0px;
+    display: block;
+}
+.mune__de_page a.navbar-brand.logo img {
+    width: 53%;
+    margin-left: -23%;
+    margin-top: -11px;
 }
 }
 

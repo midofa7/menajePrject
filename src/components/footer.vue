@@ -7,14 +7,14 @@
    <router-link
                         :to="{ path: '/Privacyverklaring', name: 'Privacyverklaring'}"
                       >   <a href="" class="nav-link ">
-                  Privacyverklaring </a>
-                    </router-link>| 
+                  Privacyverklaring |</a>
+                    </router-link> 
 
    <router-link
                         :to="{ path: '/Cookies', name: 'Cookies'}"
                       >   <a href="" class="nav-link ">
-             <i class="fas fa-cookie-bite"></i>       Cookies </a>
-                    </router-link> | Plastsen
+             <i class="fas fa-cookie-bite"></i>       Cookies |</a>
+                    </router-link>  Plastsen
     </p>
     </div>   
   </div>
