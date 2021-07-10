@@ -44,7 +44,7 @@
                         :to="{ path: '/seves1', name: 'seves1'}"
                       >  
                     <div class="team-item"> 
-                    <img src="../assets/img/img10.png" alt="">
+                    <img src="../assets/img/imgg10.png" alt="">
                     <div class="down-content">
                    
                            <h4> 	Schoonmaak onderhoud</h4>
@@ -54,7 +54,7 @@
                         :to="{ path: '/seves2', name: 'seves2'}"
                       >  
                     <div class="team-item">
-                    <img src="../assets/img/img11.png" alt="">
+                    <img src="../assets/img/imgg11.png" alt="">
                     <div class="down-content">
                    
                             <h4>	Glasbewassing </h4>
@@ -64,7 +64,7 @@
                         :to="{ path: '/seves3', name: 'seves3'}"
                       >  
                     <div class="team-item">
-                    <img src="../assets/img/img13.png" alt="">
+                    <img src="../assets/img/imgg13.png" alt="">
                     <div class="down-content">
                    
                            <h4>	Vloeronderhoud </h4>

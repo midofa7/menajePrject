@@ -46,7 +46,7 @@
                         :to="{ path: '/seves1', name: 'seves1'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img10.png"/>
+        <img src="../assets/img/imgg10.png"/>
         <h3>	Schoonmaak onderhoud</h3>
         </div>
         </router-link>
@@ -56,7 +56,7 @@
                         :to="{ path: '/seves2', name: 'seves2'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img11.png"/>
+        <img src="../assets/img/imgg11.png"/>
         <h3>Glasbewassing</h3>
         </div>
         </router-link>
@@ -66,7 +66,7 @@
                         :to="{ path: '/seves3', name: 'seves3'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img13.png"/>
+        <img src="../assets/img/imgg13.png"/>
         <h3>Vloeronderhoud</h3>
         </div>
         </router-link>
@@ -76,7 +76,7 @@
                         :to="{ path: '/seves4', name: 'seves4'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img23.png"/>
+        <img src="../assets/img/imgg23.png"/>
         <h3>Bouwopleveringen</h3>
         </div>
         </router-link>
@@ -86,7 +86,7 @@
                         :to="{ path: '/seves5', name: 'seves5'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img3.png"/>
+        <img src="../assets/img/imgg3.png"/>
         <h3>Dieptereiniging</h3>
         </div>
         </router-link>
@@ -96,7 +96,7 @@
                         :to="{ path: '/seves6', name: 'seves6'}"
                       > 
         <div class="item">
-        <img src="../assets/img/img17.png"/>
+        <img src="../assets/img/imgg17.png"/>
         <h3>Calamiteitenservice</h3>
         </div>
         </router-link>
