@@ -1232,6 +1232,10 @@ p span {
     text-align: center;
     padding: 6px 2px;
 }
+.mune__de_page .navbar-expand-lg .navbar-collapse {
+    margin-left: 2%;
+    width: 65%;
+}
 }
 
 
