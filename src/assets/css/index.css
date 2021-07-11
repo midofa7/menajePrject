@@ -715,6 +715,7 @@ p span {
     padding: 8px 7px;
     padding-left: 22%;
     border-radius: 63px 1px 1px 1px;
+    margin-right: -16px;
     margin-top: 35px;
 }
 .home_2_pagee .right__block .block__elemmt__textbtn .textright p {
@@ -1202,13 +1203,6 @@ p span {
     padding-right: 6%;
     padding-bottom: 34px;
 }
-.home_2_pagee .right__block .block__elemmt__textbtn .textright {
-    background-color: #f0ae41;
-    padding: 8px 7px;
-    padding-left: 22%;
-    border-radius: 30px;
-    margin-top: 35px;
-}
 .footer_site {
     margin-top: 417px;
     background: #5ebaf6;
@@ -1247,6 +1241,18 @@ p span {
 .mune__de_page .navbar-expand-lg .navbar-collapse {
     margin-left: 2%;
     width: 65%;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright p img {
+    width: 28px;
+    margin-right: 13px;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright {
+    background-color: #f0ae41;
+    padding: 3px 0px;
+    padding-left: 12%;
+    border-radius: 30px;
+    margin-top: 72px;
+    width: 107%;
 }
 }
 
