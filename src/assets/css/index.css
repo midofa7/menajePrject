@@ -848,7 +848,19 @@ p span {
 .icone_conatct {
     display: none;
 }
+
 @media screen and (max-width: 750px) {
+    .home.vue__de__site {
+        min-height: 600px;
+        width: 100%;
+    }
+.home_2_pagee {
+    height: 668px;
+    margin-bottom: 492px;
+}
+.footer_site {
+    margin-top: 20px;
+}
     .text--block {
         text-align: center;
         padding: 2px 2%;
@@ -1097,7 +1109,7 @@ p span {
 .munedepage div#navbarNav {
     padding-top: 75px;
     background-color: #dbf0fcc4;
-    width: 368px;
+    width: 110%;
 }
 .lacaroseel .owl-dots {
     position: absolute;
