@@ -850,6 +850,10 @@ p span {
     display: none;
 }
 
+.slacaroseel .owl-theme .owl-nav [class*='owl-next'] {
+  
+    background: #393939;
+}
 @media screen and (max-width: 750px) {
     .home.vue__de__site {
         min-height: 600px;
@@ -1256,14 +1260,8 @@ p span {
 }
 
 .slacaroseel .owl-theme .owl-nav [class*='owl-next'] {
-    color: #FFF;
-    font-size: 14px;
-    margin: 5px;
-    padding: 4px 7px;
+  
     background: #393939;
-    display: inline-block;
-    cursor: pointer;
-    border-radius: 3px;
 }
 }
 
