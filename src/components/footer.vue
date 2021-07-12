@@ -3,7 +3,7 @@
   <div class="footer">
     
     <div class="block_bottn">
-    <p>-– © flexschoon 2021/2020
+    <p> © flexschoon 2021/2020
    <router-link
                         :to="{ path: '/Privacyverklaring', name: 'Privacyverklaring'}"
                       >   <a href="" class="nav-link ">
