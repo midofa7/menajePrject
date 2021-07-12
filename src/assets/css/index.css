@@ -1260,18 +1260,19 @@ p span {
     width: 28px;
     margin-right: 13px;
 }
-.home_2_pagee .right__block .block__elemmt__textbtn .textright {
-    background-color: #f0ae41;
-    padding: 3px 0px;
-    padding-left: 12%;
-    border-radius: 30px;
-    margin-top: 72px;
-    width: 107%;
-}
 
 .slacaroseel .owl-theme .owl-nav [class*='owl-next'] {
   
     background: #393939;
+}
+.home_2_pagee .right__block .block__elemmt__textbtn .textright {
+    background-color: #f0ae41;
+    padding: 3px 0;
+    padding-left: 13%;
+    border-radius: 30px;
+    margin-top: 72px;
+    width: 90%;
+    margin-left: 4%;
 }
 }
 
