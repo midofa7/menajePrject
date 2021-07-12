@@ -113,7 +113,7 @@
          <h3>Calamitenservice</h3>
          </div></div>
          <div class="col-12 col-md-5 p-0"><div class="textright">
-         <p>Direct cotact</p>
+         <p class="text_contact">Direct cotact</p>
          <p><img src="../assets/img/icon22.svg"/>06 87 52 49 39</p>
          </div></div>
      </div>

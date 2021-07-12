@@ -854,6 +854,13 @@ p span {
   
     background: #393939;
 }
+.home_2_pagee .right__block .block__elemmt__textbtn .textright p.text_contact {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+    padding-bottom: 8px;
+    padding-top: 12px;
+}
 @media screen and (max-width: 750px) {
     .home.vue__de__site {
         min-height: 600px;
